@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/window_snapshot
+END
+window_snapshot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot.cc
+END
+window_snapshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/180873/trunk/src/chrome/browser/ui/window_snapshot/window_snapshot.h
+END

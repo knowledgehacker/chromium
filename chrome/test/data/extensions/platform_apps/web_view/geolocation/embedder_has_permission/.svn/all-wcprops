@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/193230/trunk/src/chrome/test/data/extensions/platform_apps/web_view/geolocation/embedder_has_permission
+END
+embedder.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/chrome/!svn/ver/193230/trunk/src/chrome/test/data/extensions/platform_apps/web_view/geolocation/embedder_has_permission/embedder.js
+END
+embedder.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/chrome/!svn/ver/187099/trunk/src/chrome/test/data/extensions/platform_apps/web_view/geolocation/embedder_has_permission/embedder.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/chrome/!svn/ver/187099/trunk/src/chrome/test/data/extensions/platform_apps/web_view/geolocation/embedder_has_permission/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/chrome/!svn/ver/187099/trunk/src/chrome/test/data/extensions/platform_apps/web_view/geolocation/embedder_has_permission/manifest.json
+END

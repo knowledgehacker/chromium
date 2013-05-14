@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/extensions/api/cookies
+END
+cookies_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/extensions/api/cookies/cookies_unittest.cc
+END
+cookies_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/extensions/api/cookies/cookies_helpers.cc
+END
+cookies_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/147954/trunk/src/chrome/browser/extensions/api/cookies/cookies_helpers.h
+END
+cookies_api_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/147954/trunk/src/chrome/browser/extensions/api/cookies/cookies_api_constants.cc
+END
+cookies_api_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/147954/trunk/src/chrome/browser/extensions/api/cookies/cookies_api_constants.h
+END
+cookies_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/extensions/api/cookies/cookies_api.cc
+END
+cookies_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/172992/trunk/src/chrome/browser/extensions/api/cookies/cookies_apitest.cc
+END
+cookies_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/177787/trunk/src/chrome/browser/extensions/api/cookies/cookies_api.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/151965/trunk/src/chrome/browser/extensions/api/cookies/OWNERS
+END

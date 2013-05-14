@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/191024/trunk/src/chrome/test/data/password
+END
+password_autocomplete_off_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/80827/trunk/src/chrome/test/data/password/password_autocomplete_off_test.html
+END
+password_xhr_submit.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/191024/trunk/src/chrome/test/data/password/password_xhr_submit.html
+END
+password_xhr_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/191024/trunk/src/chrome/test/data/password/password_xhr_done.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/188065/trunk/src/chrome/browser/policy/test
+END
+local_policy_test_server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/188065/trunk/src/chrome/browser/policy/test/local_policy_test_server.cc
+END
+asn1der.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/183159/trunk/src/chrome/browser/policy/test/asn1der.py
+END
+local_policy_test_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/185711/trunk/src/chrome/browser/policy/test/local_policy_test_server.h
+END
+policy_testserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/188065/trunk/src/chrome/browser/policy/test/policy_testserver.py
+END

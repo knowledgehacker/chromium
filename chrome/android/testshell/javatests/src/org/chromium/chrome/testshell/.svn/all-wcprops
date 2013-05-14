@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/191402/trunk/src/chrome/android/testshell/javatests/src/org/chromium/chrome/testshell
+END
+ChromiumTestShellTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/chrome/!svn/ver/191402/trunk/src/chrome/android/testshell/javatests/src/org/chromium/chrome/testshell/ChromiumTestShellTestBase.java
+END
+TabShellTabUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/chrome/!svn/ver/191402/trunk/src/chrome/android/testshell/javatests/src/org/chromium/chrome/testshell/TabShellTabUtils.java
+END
+ChromiumTestShellUrlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/chrome/!svn/ver/179110/trunk/src/chrome/android/testshell/javatests/src/org/chromium/chrome/testshell/ChromiumTestShellUrlTest.java
+END

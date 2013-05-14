@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/173811/trunk/src/chrome/test/data/extensions/api_test/developer/test
+END
+basics.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/173811/trunk/src/chrome/test/data/extensions/api_test/developer/test/basics.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/173811/trunk/src/chrome/test/data/extensions/api_test/developer/test/common.js
+END
+basics.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/173811/trunk/src/chrome/test/data/extensions/api_test/developer/test/basics.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/173811/trunk/src/chrome/test/data/extensions/api_test/developer/test/manifest.json
+END

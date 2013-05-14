@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/194279/trunk/src/chrome/browser/google_apis
+END
+operation_runner.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/172577/trunk/src/chrome/browser/google_apis/operation_runner.h
+END
+operation_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/184902/trunk/src/chrome/browser/google_apis/operation_util.h
+END
+auth_service_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/181871/trunk/src/chrome/browser/google_apis/auth_service_interface.h
+END
+drive_api_operations_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193846/trunk/src/chrome/browser/google_apis/drive_api_operations_unittest.cc
+END
+mock_drive_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/mock_drive_service.h
+END
+drive_notification_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193583/trunk/src/chrome/browser/google_apis/drive_notification_manager.cc
+END
+drive_service_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/drive_service_interface.h
+END
+gdata_wapi_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/193640/trunk/src/chrome/browser/google_apis/gdata_wapi_parser.h
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/test_util.h
+END
+base_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/base_operations.h
+END
+auth_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/193708/trunk/src/chrome/browser/google_apis/auth_service.cc
+END
+drive_switches.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/173651/trunk/src/chrome/browser/google_apis/drive_switches.cc
+END
+gdata_wapi_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/gdata_wapi_service.h
+END
+drive_api_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/drive_api_service.h
+END
+gdata_errorcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/185496/trunk/src/chrome/browser/google_apis/gdata_errorcode.h
+END
+operation_registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/185196/trunk/src/chrome/browser/google_apis/operation_registry_unittest.cc
+END
+gdata_wapi_url_generator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/google_apis/gdata_wapi_url_generator_unittest.cc
+END
+drive_api_url_generator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193846/trunk/src/chrome/browser/google_apis/drive_api_url_generator_unittest.cc
+END
+drive_api_url_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193846/trunk/src/chrome/browser/google_apis/drive_api_url_generator.cc
+END
+operation_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/google_apis/operation_util_unittest.cc
+END
+drive_api_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/168507/trunk/src/chrome/browser/google_apis/drive_api_util.cc
+END
+task_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/163248/trunk/src/chrome/browser/google_apis/task_util.cc
+END
+task_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/187521/trunk/src/chrome/browser/google_apis/task_util.h
+END
+drive_api_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/167840/trunk/src/chrome/browser/google_apis/drive_api_util.h
+END
+gdata_wapi_operations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193847/trunk/src/chrome/browser/google_apis/gdata_wapi_operations.cc
+END
+drive_uploader_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/drive_uploader_unittest.cc
+END
+drive_api_operations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193847/trunk/src/chrome/browser/google_apis/drive_api_operations.cc
+END
+gdata_wapi_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193293/trunk/src/chrome/browser/google_apis/gdata_wapi_operations.h
+END
+base_operations_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/google_apis/base_operations_unittest.cc
+END
+gdata_wapi_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193640/trunk/src/chrome/browser/google_apis/gdata_wapi_parser.cc
+END
+test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/test_util.cc
+END
+drive_api_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193642/trunk/src/chrome/browser/google_apis/drive_api_parser_unittest.cc
+END
+drive_api_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/193642/trunk/src/chrome/browser/google_apis/drive_api_parser.cc
+END
+gdata_wapi_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/gdata_wapi_service.cc
+END
+gdata_contacts_operations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/179902/trunk/src/chrome/browser/google_apis/gdata_contacts_operations.cc
+END
+drive_switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/168507/trunk/src/chrome/browser/google_apis/drive_switches.h
+END
+drive_notification_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193356/trunk/src/chrome/browser/google_apis/drive_notification_observer.h
+END
+operation_runner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/172577/trunk/src/chrome/browser/google_apis/operation_runner.cc
+END
+operation_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/185196/trunk/src/chrome/browser/google_apis/operation_registry.h
+END
+gdata_wapi_url_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/192287/trunk/src/chrome/browser/google_apis/gdata_wapi_url_generator.h
+END
+drive_api_url_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193846/trunk/src/chrome/browser/google_apis/drive_api_url_generator.h
+END
+operation_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/184902/trunk/src/chrome/browser/google_apis/operation_util.cc
+END
+gdata_wapi_operations_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193092/trunk/src/chrome/browser/google_apis/gdata_wapi_operations_unittest.cc
+END
+drive_uploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/193847/trunk/src/chrome/browser/google_apis/drive_uploader.h
+END
+dummy_drive_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/dummy_drive_service.h
+END
+drive_notification_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193583/trunk/src/chrome/browser/google_apis/drive_notification_manager.h
+END
+base_operations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/base_operations.cc
+END
+fake_drive_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/194279/trunk/src/chrome/browser/google_apis/fake_drive_service.cc
+END
+drive_api_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193642/trunk/src/chrome/browser/google_apis/drive_api_parser.h
+END
+fake_drive_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/fake_drive_service.h
+END
+auth_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/181871/trunk/src/chrome/browser/google_apis/auth_service.h
+END
+drive_entry_kinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/163248/trunk/src/chrome/browser/google_apis/drive_entry_kinds.h
+END
+operation_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/185196/trunk/src/chrome/browser/google_apis/operation_registry.cc
+END
+gdata_wapi_url_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/192287/trunk/src/chrome/browser/google_apis/gdata_wapi_url_generator.cc
+END
+drive_upload_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/174148/trunk/src/chrome/browser/google_apis/drive_upload_error.h
+END
+time_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/181564/trunk/src/chrome/browser/google_apis/time_util.cc
+END
+time_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/191562/trunk/src/chrome/browser/google_apis/time_util.h
+END
+mock_drive_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/mock_drive_service.cc
+END
+base_operations_server_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/base_operations_server_unittest.cc
+END
+drive_uploader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193847/trunk/src/chrome/browser/google_apis/drive_uploader.cc
+END
+dummy_drive_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/google_apis/dummy_drive_service.cc
+END
+drive_api_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193846/trunk/src/chrome/browser/google_apis/drive_api_operations.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/193583/trunk/src/chrome/browser/google_apis/DEPS
+END
+gdata_wapi_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/google_apis/gdata_wapi_parser_unittest.cc
+END
+fake_drive_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/194279/trunk/src/chrome/browser/google_apis/fake_drive_service_unittest.cc
+END
+drive_api_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193934/trunk/src/chrome/browser/google_apis/drive_api_service.cc
+END
+gdata_contacts_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/172577/trunk/src/chrome/browser/google_apis/gdata_contacts_operations.h
+END
+drive_upload_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/173651/trunk/src/chrome/browser/google_apis/drive_upload_mode.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/156112/trunk/src/chrome/browser/google_apis/OWNERS
+END
+auth_service_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/163248/trunk/src/chrome/browser/google_apis/auth_service_observer.h
+END
+time_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/177370/trunk/src/chrome/browser/google_apis/time_util_unittest.cc
+END

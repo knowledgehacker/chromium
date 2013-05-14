@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193728/trunk/src/chrome/browser/extensions/api/system_info_cpu
+END
+cpu_info_provider_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider_linux.cc
+END
+cpu_info_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/186924/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider.cc
+END
+cpu_info_provider_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/161742/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider_android.cc
+END
+cpu_info_provider_mac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/164863/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider_mac.cc
+END
+cpu_info_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/186924/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider.h
+END
+system_info_cpu_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/152950/trunk/src/chrome/browser/extensions/api/system_info_cpu/system_info_cpu_api.cc
+END
+system_info_cpu_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/181160/trunk/src/chrome/browser/extensions/api/system_info_cpu/system_info_cpu_apitest.cc
+END
+system_info_cpu_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/177787/trunk/src/chrome/browser/extensions/api/system_info_cpu/system_info_cpu_api.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/151446/trunk/src/chrome/browser/extensions/api/system_info_cpu/OWNERS
+END
+cpu_info_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/193728/trunk/src/chrome/browser/extensions/api/system_info_cpu/cpu_info_provider_win.cc
+END

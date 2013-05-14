@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/page_capture
+END
+page_capture_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/extensions/api/page_capture/page_capture_api.cc
+END
+page_capture_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/page_capture/page_capture_apitest.cc
+END
+page_capture_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/180971/trunk/src/chrome/browser/extensions/api/page_capture/page_capture_api.h
+END

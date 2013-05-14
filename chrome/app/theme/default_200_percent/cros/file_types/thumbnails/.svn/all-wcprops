@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/181227/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails
+END
+generic.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/181227/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails/generic.png
+END
+audio.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails/audio.png
+END
+image.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails/image.png
+END
+video.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails/video.png
+END
+folder.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/181227/trunk/src/chrome/app/theme/default_200_percent/cros/file_types/thumbnails/folder.png
+END

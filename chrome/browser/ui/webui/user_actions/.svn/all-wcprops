@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/180392/trunk/src/chrome/browser/ui/webui/user_actions
+END
+user_actions_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/179094/trunk/src/chrome/browser/ui/webui/user_actions/user_actions_ui.cc
+END
+user_actions_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/169176/trunk/src/chrome/browser/ui/webui/user_actions/user_actions_ui.h
+END
+user_actions_ui_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/180392/trunk/src/chrome/browser/ui/webui/user_actions/user_actions_ui_handler.cc
+END
+user_actions_ui_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/180392/trunk/src/chrome/browser/ui/webui/user_actions/user_actions_ui_handler.h
+END

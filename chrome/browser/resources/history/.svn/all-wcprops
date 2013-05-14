@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/194103/trunk/src/chrome/browser/resources/history
+END
+history_mobile.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193403/trunk/src/chrome/browser/resources/history/history_mobile.css
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/192577/trunk/src/chrome/browser/resources/history/history.html
+END
+history.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/194103/trunk/src/chrome/browser/resources/history/history.css
+END
+other_devices.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/191932/trunk/src/chrome/browser/resources/history/other_devices.css
+END
+history.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/193942/trunk/src/chrome/browser/resources/history/history.js
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/124709/trunk/src/chrome/browser/resources/history/OWNERS
+END
+other_devices.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/191816/trunk/src/chrome/browser/resources/history/other_devices.js
+END

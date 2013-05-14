@@ -1,0 +1,40 @@
+10
+
+dir
+194279
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/platform_apps/ad_view
+https://src.chromium.org/chrome
+
+
+
+2013-03-23T17:37:53.924482Z
+190043
+rpaquay@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+display_first_ad
+dir
+
+load_event
+dir
+
+ad_network_loaded
+dir
+
+ad_network
+dir
+

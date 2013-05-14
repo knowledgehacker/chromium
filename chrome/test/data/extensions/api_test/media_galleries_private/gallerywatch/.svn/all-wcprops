@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/185742/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/gallerywatch
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/185742/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/gallerywatch/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/175347/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/gallerywatch/manifest.json
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/189319/trunk/src/chrome/common/extensions/docs/examples/apps/calculator
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/160666/trunk/src/chrome/common/extensions/docs/examples/apps/calculator/LICENSE
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/161711/trunk/src/chrome/common/extensions/docs/examples/apps/calculator/README.md
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/187672/trunk/src/chrome/common/extensions/docs/examples/apps/calculator/OWNERS
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193760/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/autofill
+END
+AutofillTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/193760/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/autofill/AutofillTest.java
+END
+PersonalDataManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/chrome/!svn/ver/187114/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/autofill/PersonalDataManagerTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/186798/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/identity
+END
+UniqueIdentificationGeneratorFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/chrome/!svn/ver/186798/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/identity/UniqueIdentificationGeneratorFactoryTest.java
+END
+SettingsSecureBasedIdentificationGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/chrome/!svn/ver/186798/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/identity/SettingsSecureBasedIdentificationGeneratorTest.java
+END

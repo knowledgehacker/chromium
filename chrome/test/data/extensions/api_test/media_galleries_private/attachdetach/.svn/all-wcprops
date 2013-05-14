@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/170891/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/attachdetach
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/170891/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/attachdetach/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/156409/trunk/src/chrome/test/data/extensions/api_test/media_galleries_private/attachdetach/manifest.json
+END

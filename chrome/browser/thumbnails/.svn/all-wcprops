@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/190143/trunk/src/chrome/browser/thumbnails
+END
+thumbnail_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/162020/trunk/src/chrome/browser/thumbnails/thumbnail_service_factory.h
+END
+thumbnail_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/168281/trunk/src/chrome/browser/thumbnails/thumbnail_service_unittest.cc
+END
+thumbnail_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/thumbnail_service.h
+END
+thumbnail_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/189969/trunk/src/chrome/browser/thumbnails/thumbnail_tab_helper.cc
+END
+thumbnail_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/188471/trunk/src/chrome/browser/thumbnails/thumbnail_tab_helper.h
+END
+simple_thumbnail_crop_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/simple_thumbnail_crop_unittest.cc
+END
+simple_thumbnail_crop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/simple_thumbnail_crop.cc
+END
+simple_thumbnail_crop.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/simple_thumbnail_crop.h
+END
+thumbnail_service_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/178753/trunk/src/chrome/browser/thumbnails/thumbnail_service_impl.cc
+END
+thumbnailing_context.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/thumbnailing_context.cc
+END
+thumbnail_service_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/thumbnail_service_impl.h
+END
+render_widget_snapshot_taker_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/190143/trunk/src/chrome/browser/thumbnails/render_widget_snapshot_taker_unittest.cc
+END
+render_widget_snapshot_taker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/190143/trunk/src/chrome/browser/thumbnails/render_widget_snapshot_taker.cc
+END
+thumbnailing_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/thumbnailing_context.h
+END
+thumbnailing_algorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/178131/trunk/src/chrome/browser/thumbnails/thumbnailing_algorithm.h
+END
+render_widget_snapshot_taker.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/190143/trunk/src/chrome/browser/thumbnails/render_widget_snapshot_taker.h
+END
+thumbnail_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/162020/trunk/src/chrome/browser/thumbnails/thumbnail_service_factory.cc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/180791/trunk/src/chrome/test/data/extensions/api_test/fullscreen/no_permission
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/180791/trunk/src/chrome/test/data/extensions/api_test/fullscreen/no_permission/window.js
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/180791/trunk/src/chrome/test/data/extensions/api_test/fullscreen/no_permission/background.js
+END
+window.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/180791/trunk/src/chrome/test/data/extensions/api_test/fullscreen/no_permission/window.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/180791/trunk/src/chrome/test/data/extensions/api_test/fullscreen/no_permission/manifest.json
+END

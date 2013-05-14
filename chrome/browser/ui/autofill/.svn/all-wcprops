@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill
+END
+autofill_popup_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/autofill/autofill_popup_view.cc
+END
+autofill_dialog_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/autofill_dialog_controller_unittest.cc
+END
+autofill_dialog_models.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_models.cc
+END
+autofill_dialog_models.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_models.h
+END
+autofill_popup_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/autofill/autofill_popup_controller.h
+END
+autofill_popup_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/autofill_popup_controller_browsertest.cc
+END
+country_combobox_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/192622/trunk/src/chrome/browser/ui/autofill/country_combobox_model.cc
+END
+country_combobox_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/country_combobox_model.h
+END
+autocheckout_bubble_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/autocheckout_bubble_controller.h
+END
+autofill_dialog_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_types.h
+END
+autofill_dialog_controller_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_controller_impl.h
+END
+autofill_popup_controller_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/autofill/autofill_popup_controller_impl.cc
+END
+autofill_dialog_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/184396/trunk/src/chrome/browser/ui/autofill/autofill_dialog_view.cc
+END
+data_model_wrapper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/192622/trunk/src/chrome/browser/ui/autofill/data_model_wrapper.cc
+END
+tab_autofill_manager_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/tab_autofill_manager_delegate.cc
+END
+tab_autofill_manager_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/tab_autofill_manager_delegate.h
+END
+data_model_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/data_model_wrapper.h
+END
+autofill_popup_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/autofill/autofill_popup_view.h
+END
+autofill_dialog_models_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_models_unittest.cc
+END
+autofill_dialog_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_controller.h
+END
+autofill_dialog_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_controller_browsertest.cc
+END
+autofill_popup_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/autofill/autofill_popup_controller_unittest.cc
+END
+autocheckout_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/187388/trunk/src/chrome/browser/ui/autofill/autocheckout_bubble.cc
+END
+autocheckout_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/187388/trunk/src/chrome/browser/ui/autofill/autocheckout_bubble.h
+END
+autocheckout_bubble_controller_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/autocheckout_bubble_controller_unittest.cc
+END
+autocheckout_bubble_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193312/trunk/src/chrome/browser/ui/autofill/autocheckout_bubble_controller.cc
+END
+autofill_dialog_controller_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_controller_impl.cc
+END
+autofill_dialog_types.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/autofill/autofill_dialog_types.cc
+END
+data_model_wrapper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/191042/trunk/src/chrome/browser/ui/autofill/data_model_wrapper_unittest.cc
+END
+autofill_popup_controller_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/autofill/autofill_popup_controller_impl.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/193604/trunk/src/chrome/browser/ui/autofill/OWNERS
+END
+autofill_dialog_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193348/trunk/src/chrome/browser/ui/autofill/autofill_dialog_view.h
+END

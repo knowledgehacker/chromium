@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/ui/panels
+END
+base_panel_browser_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/188311/trunk/src/chrome/browser/ui/panels/base_panel_browser_test.cc
+END
+panel_host.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/191650/trunk/src/chrome/browser/ui/panels/panel_host.cc
+END
+base_panel_browser_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/base_panel_browser_test.h
+END
+panel_drag_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/187128/trunk/src/chrome/browser/ui/panels/panel_drag_controller.cc
+END
+test_panel_active_state_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/156704/trunk/src/chrome/browser/ui/panels/test_panel_active_state_observer.cc
+END
+stacked_panel_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/190834/trunk/src/chrome/browser/ui/panels/stacked_panel_browsertest.cc
+END
+panel_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/181094/trunk/src/chrome/browser/ui/panels/panel_drag_controller.h
+END
+docked_panel_drag_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/174062/trunk/src/chrome/browser/ui/panels/docked_panel_drag_handler.cc
+END
+stacked_panel_collection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/190834/trunk/src/chrome/browser/ui/panels/stacked_panel_collection.cc
+END
+panel_bounds_animation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/118753/trunk/src/chrome/browser/ui/panels/panel_bounds_animation.cc
+END
+detached_panel_drag_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/174062/trunk/src/chrome/browser/ui/panels/detached_panel_drag_handler.cc
+END
+test_panel_notification_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/156704/trunk/src/chrome/browser/ui/panels/test_panel_notification_observer.cc
+END
+panel_collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/panel_collection.h
+END
+test_panel_notification_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/156704/trunk/src/chrome/browser/ui/panels/test_panel_notification_observer.h
+END
+display_settings_provider_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/panels/display_settings_provider_win.h
+END
+test_panel_collection_squeeze_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/171605/trunk/src/chrome/browser/ui/panels/test_panel_collection_squeeze_observer.cc
+END
+docked_panel_collection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/188300/trunk/src/chrome/browser/ui/panels/docked_panel_collection.cc
+END
+test_panel_collection_squeeze_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/171605/trunk/src/chrome/browser/ui/panels/test_panel_collection_squeeze_observer.h
+END
+panel_resize_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/191516/trunk/src/chrome/browser/ui/panels/panel_resize_browsertest.cc
+END
+panel_mouse_watcher_timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/161644/trunk/src/chrome/browser/ui/panels/panel_mouse_watcher_timer.cc
+END
+docked_panel_collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/188300/trunk/src/chrome/browser/ui/panels/docked_panel_collection.h
+END
+panel_mouse_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/155930/trunk/src/chrome/browser/ui/panels/panel_mouse_watcher.h
+END
+panel_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/189652/trunk/src/chrome/browser/ui/panels/panel_manager.cc
+END
+detached_panel_collection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/186071/trunk/src/chrome/browser/ui/panels/detached_panel_collection.cc
+END
+panel_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/panel_manager.h
+END
+native_panel_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/188008/trunk/src/chrome/browser/ui/panels/native_panel_stack.h
+END
+panel_mouse_watcher_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/panels/panel_mouse_watcher_observer.h
+END
+panel_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/191516/trunk/src/chrome/browser/ui/panels/panel_constants.h
+END
+detached_panel_collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/detached_panel_collection.h
+END
+panel_host.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/164541/trunk/src/chrome/browser/ui/panels/panel_host.h
+END
+panel_extension_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/187841/trunk/src/chrome/browser/ui/panels/panel_extension_browsertest.cc
+END
+display_settings_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/191060/trunk/src/chrome/browser/ui/panels/display_settings_provider.cc
+END
+panel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/ui/panels/panel.cc
+END
+panel_drag_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/187128/trunk/src/chrome/browser/ui/panels/panel_drag_browsertest.cc
+END
+panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/188276/trunk/src/chrome/browser/ui/panels/panel.h
+END
+display_settings_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/191060/trunk/src/chrome/browser/ui/panels/display_settings_provider.h
+END
+test_panel_active_state_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/156704/trunk/src/chrome/browser/ui/panels/test_panel_active_state_observer.h
+END
+panel_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/191516/trunk/src/chrome/browser/ui/panels/panel_browsertest.cc
+END
+docked_panel_drag_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/174062/trunk/src/chrome/browser/ui/panels/docked_panel_drag_handler.h
+END
+native_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/188008/trunk/src/chrome/browser/ui/panels/native_panel.h
+END
+panel_collection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/171605/trunk/src/chrome/browser/ui/panels/panel_collection.cc
+END
+stacked_panel_collection.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/186115/trunk/src/chrome/browser/ui/panels/stacked_panel_collection.h
+END
+panel_bounds_animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/panels/panel_bounds_animation.h
+END
+display_settings_provider_win_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/display_settings_provider_win_unittest.cc
+END
+docked_panel_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/docked_panel_browsertest.cc
+END
+detached_panel_drag_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/174062/trunk/src/chrome/browser/ui/panels/detached_panel_drag_handler.h
+END
+display_settings_provider_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/display_settings_provider_win.cc
+END
+detached_panel_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/186071/trunk/src/chrome/browser/ui/panels/detached_panel_browsertest.cc
+END
+panel_mouse_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/112019/trunk/src/chrome/browser/ui/panels/panel_mouse_watcher_unittest.cc
+END
+test_panel_mouse_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/137530/trunk/src/chrome/browser/ui/panels/test_panel_mouse_watcher.cc
+END
+panel_resize_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/185679/trunk/src/chrome/browser/ui/panels/panel_resize_controller.cc
+END
+panel_mouse_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/111864/trunk/src/chrome/browser/ui/panels/panel_mouse_watcher.cc
+END
+panel_resize_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/panels/panel_resize_controller.h
+END
+test_panel_mouse_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/panels/test_panel_mouse_watcher.h
+END
+stacked_panel_drag_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/177069/trunk/src/chrome/browser/ui/panels/stacked_panel_drag_handler.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/144915/trunk/src/chrome/browser/ui/panels/OWNERS
+END
+stacked_panel_drag_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/177069/trunk/src/chrome/browser/ui/panels/stacked_panel_drag_handler.h
+END
+native_panel_stack.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/177069/trunk/src/chrome/browser/ui/panels/native_panel_stack.cc
+END

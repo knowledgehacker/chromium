@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/188311/trunk/src/chrome/browser/extensions/api/input_ime
+END
+input_ime_apitest_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/148093/trunk/src/chrome/browser/extensions/api/input_ime/input_ime_apitest_chromeos.cc
+END
+input_ime_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/188311/trunk/src/chrome/browser/extensions/api/input_ime/input_ime_api.cc
+END
+input_ime_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/185506/trunk/src/chrome/browser/extensions/api/input_ime/input_ime_api.h
+END

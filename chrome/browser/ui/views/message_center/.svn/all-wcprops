@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/194036/trunk/src/chrome/browser/ui/views/message_center
+END
+notification_bubble_wrapper_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/192753/trunk/src/chrome/browser/ui/views/message_center/notification_bubble_wrapper_win.cc
+END
+web_notification_tray_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/194036/trunk/src/chrome/browser/ui/views/message_center/web_notification_tray_win.cc
+END
+notification_bubble_wrapper_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/183304/trunk/src/chrome/browser/ui/views/message_center/notification_bubble_wrapper_win.h
+END
+web_notification_tray_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/188811/trunk/src/chrome/browser/ui/views/message_center/web_notification_tray_win.h
+END
+web_notification_tray_win_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/194014/trunk/src/chrome/browser/ui/views/message_center/web_notification_tray_win_browsertest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/192597/trunk/src/chrome/browser/ui/views/message_center/OWNERS
+END

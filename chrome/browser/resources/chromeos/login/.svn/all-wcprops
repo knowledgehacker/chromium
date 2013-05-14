@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/194190/trunk/src/chrome/browser/resources/chromeos/login
+END
+screen_wrong_hwid.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/screen_wrong_hwid.js
+END
+screen_tpm_error.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/190650/trunk/src/chrome/browser/resources/chromeos/login/screen_tpm_error.js
+END
+oobe_screen_oauth_enrollment.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/151116/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_oauth_enrollment.html
+END
+demo_user_login.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/167599/trunk/src/chrome/browser/resources/chromeos/login/demo_user_login.js
+END
+oobe_screen_update.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/171233/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_update.html
+END
+oobe_screen_oauth_enrollment.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/187259/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_oauth_enrollment.js
+END
+enterprise_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/173336/trunk/src/chrome/browser/resources/chromeos/login/enterprise_info.html
+END
+screen_password_changed.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/173021/trunk/src/chrome/browser/resources/chromeos/login/screen_password_changed.css
+END
+accessibility_menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/171757/trunk/src/chrome/browser/resources/chromeos/login/accessibility_menu.css
+END
+header_bar.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/183617/trunk/src/chrome/browser/resources/chromeos/login/header_bar.css
+END
+screen_gaia_signin.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/187823/trunk/src/chrome/browser/resources/chromeos/login/screen_gaia_signin.html
+END
+oobe.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/190650/trunk/src/chrome/browser/resources/chromeos/login/oobe.css
+END
+screen_password_changed.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/173021/trunk/src/chrome/browser/resources/chromeos/login/screen_password_changed.html
+END
+user_pod_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/189655/trunk/src/chrome/browser/resources/chromeos/login/user_pod_template.html
+END
+screen_account_picker.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/183617/trunk/src/chrome/browser/resources/chromeos/login/screen_account_picker.css
+END
+user_pod_row.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/194190/trunk/src/chrome/browser/resources/chromeos/login/user_pod_row.js
+END
+screen_password_changed.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/screen_password_changed.js
+END
+oobe_screen_reset.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/170037/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_reset.html
+END
+version.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/119225/trunk/src/chrome/browser/resources/chromeos/login/version.html
+END
+oobe_screen_eula.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/174603/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_eula.html
+END
+network_dropdown.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/177425/trunk/src/chrome/browser/resources/chromeos/login/network_dropdown.css
+END
+oobe_screen_user_image.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_user_image.js
+END
+user_pod_row.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/192562/trunk/src/chrome/browser/resources/chromeos/login/user_pod_row.css
+END
+screen_locally_managed_user_creation.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/screen_locally_managed_user_creation.html
+END
+screen_error_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/192311/trunk/src/chrome/browser/resources/chromeos/login/screen_error_message.html
+END
+oobe_screen_network.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/171233/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_network.html
+END
+screen_tpm_error.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/190650/trunk/src/chrome/browser/resources/chromeos/login/screen_tpm_error.css
+END
+oobe_screen_terms_of_service.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/181656/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_terms_of_service.html
+END
+bubble.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/177434/trunk/src/chrome/browser/resources/chromeos/login/bubble.js
+END
+oobe_screen_network.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_network.js
+END
+screen_locally_managed_user_creation.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/resources/chromeos/login/screen_locally_managed_user_creation.js
+END
+screen_error_message.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/192311/trunk/src/chrome/browser/resources/chromeos/login/screen_error_message.js
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/login.html
+END
+accessibility_menu.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/171757/trunk/src/chrome/browser/resources/chromeos/login/accessibility_menu.html
+END
+bubble.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/177434/trunk/src/chrome/browser/resources/chromeos/login/bubble.css
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/login.js
+END
+oobe_screen_terms_of_service.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/183617/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_terms_of_service.css
+END
+oobe_screen_update.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/187259/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_update.js
+END
+apps_menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193849/trunk/src/chrome/browser/resources/chromeos/login/apps_menu.js
+END
+apps_menu.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/183983/trunk/src/chrome/browser/resources/chromeos/login/apps_menu.css
+END
+header_bar.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/183983/trunk/src/chrome/browser/resources/chromeos/login/header_bar.html
+END
+network_dropdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/174605/trunk/src/chrome/browser/resources/chromeos/login/network_dropdown.js
+END
+screen_gaia_signin.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/190338/trunk/src/chrome/browser/resources/chromeos/login/screen_gaia_signin.js
+END
+enterprise_info.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/173336/trunk/src/chrome/browser/resources/chromeos/login/enterprise_info.css
+END
+screen_locally_managed_user_creation.css
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/screen_locally_managed_user_creation.css
+END
+screen_error_message.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193935/trunk/src/chrome/browser/resources/chromeos/login/screen_error_message.css
+END
+oobe_screen_user_image.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/174138/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_user_image.html
+END
+header_bar.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/194185/trunk/src/chrome/browser/resources/chromeos/login/header_bar.js
+END
+oobe.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/oobe.html
+END
+screen_account_picker.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/171837/trunk/src/chrome/browser/resources/chromeos/login/screen_account_picker.html
+END
+screen_wrong_hwid.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/183514/trunk/src/chrome/browser/resources/chromeos/login/screen_wrong_hwid.css
+END
+screen_gaia_signin.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/186248/trunk/src/chrome/browser/resources/chromeos/login/screen_gaia_signin.css
+END
+oobe.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/resources/chromeos/login/oobe.js
+END
+oobe_screen_reset.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_reset.js
+END
+demo_user_login.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/167599/trunk/src/chrome/browser/resources/chromeos/login/demo_user_login.css
+END
+screen_account_picker.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/183617/trunk/src/chrome/browser/resources/chromeos/login/screen_account_picker.js
+END
+oobe_screen_eula.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_eula.js
+END
+screen_wrong_hwid.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/183514/trunk/src/chrome/browser/resources/chromeos/login/screen_wrong_hwid.html
+END
+display_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/194185/trunk/src/chrome/browser/resources/chromeos/login/display_manager.js
+END
+screen_tpm_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/190650/trunk/src/chrome/browser/resources/chromeos/login/screen_tpm_error.html
+END
+oobe_screen_terms_of_service.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/184349/trunk/src/chrome/browser/resources/chromeos/login/oobe_screen_terms_of_service.js
+END
+demo_user_login.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/185184/trunk/src/chrome/browser/resources/chromeos/login/demo_user_login.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/193956/trunk/src/chrome/browser/resources/chromeos/login/OWNERS
+END

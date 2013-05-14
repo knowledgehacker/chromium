@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/194221/trunk/src/chrome/browser/metrics
+END
+field_trial_synchronizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/151619/trunk/src/chrome/browser/metrics/field_trial_synchronizer.cc
+END
+metrics_reporting_scheduler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/161190/trunk/src/chrome/browser/metrics/metrics_reporting_scheduler.cc
+END
+field_trial_synchronizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/metrics/field_trial_synchronizer.h
+END
+metrics_reporting_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/metrics/metrics_reporting_scheduler.h
+END
+metrics_log_serializer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/138081/trunk/src/chrome/browser/metrics/metrics_log_serializer_unittest.cc
+END
+metrics_log_serializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/metrics/metrics_log_serializer.cc
+END
+metric_event_duration_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/metrics/metric_event_duration_details.h
+END
+metrics_log_serializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/metrics/metrics_log_serializer.h
+END
+perf_provider_chromeos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/191042/trunk/src/chrome/browser/metrics/perf_provider_chromeos.cc
+END
+metrics_log_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/metrics_log_unittest.cc
+END
+perf_provider_chromeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/180484/trunk/src/chrome/browser/metrics/perf_provider_chromeos.h
+END
+metrics_log.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/metrics/metrics_log.cc
+END
+metrics_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/metrics_log.h
+END
+tracking_synchronizer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/tracking_synchronizer.cc
+END
+tracking_synchronizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/tracking_synchronizer.h
+END
+thread_watcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/185315/trunk/src/chrome/browser/metrics/thread_watcher_unittest.cc
+END
+thread_watcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/192127/trunk/src/chrome/browser/metrics/thread_watcher.cc
+END
+metrics_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/metrics_service_unittest.cc
+END
+metrics_network_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/183633/trunk/src/chrome/browser/metrics/metrics_network_observer.cc
+END
+chrome_browser_main_extra_parts_metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193829/trunk/src/chrome/browser/metrics/chrome_browser_main_extra_parts_metrics.cc
+END
+metrics_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/metrics/metrics_service.cc
+END
+thread_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/192127/trunk/src/chrome/browser/metrics/thread_watcher.h
+END
+metrics_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/metrics_service.h
+END
+tracking_synchronizer_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/189763/trunk/src/chrome/browser/metrics/tracking_synchronizer_observer.h
+END
+chrome_browser_main_extra_parts_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193829/trunk/src/chrome/browser/metrics/chrome_browser_main_extra_parts_metrics.h
+END
+metrics_network_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/183633/trunk/src/chrome/browser/metrics/metrics_network_observer.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/149900/trunk/src/chrome/browser/metrics/OWNERS
+END
+metrics_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/185784/trunk/src/chrome/browser/metrics/metrics_service_browsertest.cc
+END

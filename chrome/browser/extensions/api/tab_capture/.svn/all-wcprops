@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/192973/trunk/src/chrome/browser/extensions/api/tab_capture
+END
+tab_capture_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/189285/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_registry.cc
+END
+tab_capture_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/189285/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_api.cc
+END
+tab_capture_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/192973/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_apitest.cc
+END
+tab_capture_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/189285/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_registry.h
+END
+tab_capture_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/177787/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_api.h
+END
+tab_capture_registry_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/164230/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_registry_factory.cc
+END
+tab_capture_registry_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/164230/trunk/src/chrome/browser/extensions/api/tab_capture/tab_capture_registry_factory.h
+END

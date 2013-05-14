@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/188999/trunk/src/chrome/browser/extensions/api/system_private
+END
+system_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/182423/trunk/src/chrome/browser/extensions/api/system_private/system_private_api.cc
+END
+system_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/188999/trunk/src/chrome/browser/extensions/api/system_private/system_private_apitest.cc
+END
+system_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/182423/trunk/src/chrome/browser/extensions/api/system_private/system_private_api.h
+END

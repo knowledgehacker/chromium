@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/162991/trunk/src/chrome/test/data/extensions/api_test/bluetooth/get_devices_concurrently
+END
+runtest.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/162991/trunk/src/chrome/test/data/extensions/api_test/bluetooth/get_devices_concurrently/runtest.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/162991/trunk/src/chrome/test/data/extensions/api_test/bluetooth/get_devices_concurrently/manifest.json
+END

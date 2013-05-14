@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/cocoa/panels
+END
+mouse_drag_controller.mm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/cocoa/panels/mouse_drag_controller.mm
+END
+panel_window_controller_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/189108/trunk/src/chrome/browser/ui/cocoa/panels/panel_window_controller_cocoa.h
+END
+panel_window_controller_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/cocoa/panels/panel_window_controller_cocoa.mm
+END
+panel_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/188008/trunk/src/chrome/browser/ui/cocoa/panels/panel_cocoa.h
+END
+panel_titlebar_view_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/187441/trunk/src/chrome/browser/ui/cocoa/panels/panel_titlebar_view_cocoa.h
+END
+panel_utils_cocoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/cocoa/panels/panel_utils_cocoa.h
+END
+panel_cocoa_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/cocoa/panels/panel_cocoa_unittest.mm
+END
+display_settings_provider_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/191060/trunk/src/chrome/browser/ui/cocoa/panels/display_settings_provider_cocoa.mm
+END
+panel_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/189108/trunk/src/chrome/browser/ui/cocoa/panels/panel_cocoa.mm
+END
+panel_titlebar_view_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/189314/trunk/src/chrome/browser/ui/cocoa/panels/panel_titlebar_view_cocoa.mm
+END
+panel_utils_cocoa.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/cocoa/panels/panel_utils_cocoa.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/cocoa/panels/OWNERS
+END
+mouse_drag_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/cocoa/panels/mouse_drag_controller.h
+END
+panel_cocoa_browsertest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/182178/trunk/src/chrome/browser/ui/cocoa/panels/panel_cocoa_browsertest.mm
+END

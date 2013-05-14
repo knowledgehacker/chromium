@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/192588/trunk/src/chrome/test/data/autofill
+END
+duplicate_profiles_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/duplicate_profiles_test.html
+END
+read_only_field_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/read_only_field_test.html
+END
+cc_autocomplete_off_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/cc_autocomplete_off_test.html
+END
+form_phones.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/form_phones.html
+END
+dataset.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/dataset.txt
+END
+autofill_test_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/autofill_test_form.html
+END
+dataset_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/dataset_2.txt
+END
+dataset_no_address.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/dataset_no_address.txt
+END
+latency_after_submit_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/latency_after_submit_test.html
+END
+autofill_middleinit_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/autofill_middleinit_form.html
+END
+autofill_creditcard_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/autofill_creditcard_form.html
+END
+autofill_confirmemail_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/152560/trunk/src/chrome/test/data/autofill/autofill_confirmemail_form.html
+END

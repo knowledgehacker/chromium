@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/190284/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui
+END
+checkbox_checked.png
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/190284/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/checkbox_checked.png
+END
+close-error.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/181699/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/close-error.png
+END
+check.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/check.png
+END
+close-error-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/181699/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/close-error-hover.png
+END
+add-wallpaper-thumbnail.png
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/add-wallpaper-thumbnail.png
+END
+remember.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/remember.png
+END
+add-wallpaper-thumbnail-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/add-wallpaper-thumbnail-hover.png
+END
+checkbox_unchecked.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/190284/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/checkbox_unchecked.png
+END
+close-white.png
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/close-white.png
+END
+close-white-hover.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/close-white-hover.png
+END
+close_bar.png
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/chromeos/wallpaper_manager/images/ui/close_bar.png
+END

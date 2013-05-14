@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive
+END
+mock_directory_change_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/chromeos/drive/mock_directory_change_observer.h
+END
+drive_cache_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193050/trunk/src/chrome/browser/chromeos/drive/drive_cache_metadata.cc
+END
+drive_download_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/drive_download_handler.cc
+END
+drive_url_request_job.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193105/trunk/src/chrome/browser/chromeos/drive/drive_url_request_job.cc
+END
+drive_system_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/192477/trunk/src/chrome/browser/chromeos/drive/drive_system_service.h
+END
+drive_system_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/chromeos/drive/drive_system_service_browsertest.cc
+END
+drive_file_stream_reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/190942/trunk/src/chrome/browser/chromeos/drive/drive_file_stream_reader.cc
+END
+drive_scheduler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193678/trunk/src/chrome/browser/chromeos/drive/drive_scheduler_unittest.cc
+END
+change_list_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193606/trunk/src/chrome/browser/chromeos/drive/change_list_loader.h
+END
+drive_file_system_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/192962/trunk/src/chrome/browser/chromeos/drive/drive_file_system_util_unittest.cc
+END
+stale_cache_files_remover_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/stale_cache_files_remover_unittest.cc
+END
+drive_file_system.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/drive_file_system.cc
+END
+drive_file_system_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/181871/trunk/src/chrome/browser/chromeos/drive/drive_file_system_metadata.h
+END
+drive_prefetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/192554/trunk/src/chrome/browser/chromeos/drive/drive_prefetcher_unittest.cc
+END
+resource_entry_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/172018/trunk/src/chrome/browser/chromeos/drive/resource_entry_conversion.h
+END
+drive_resource_metadata_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193587/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata_unittest.cc
+END
+drive_webapps_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/185703/trunk/src/chrome/browser/chromeos/drive/drive_webapps_registry.h
+END
+mock_drive_file_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/mock_drive_file_system.h
+END
+file_write_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/180245/trunk/src/chrome/browser/chromeos/drive/file_write_helper.h
+END
+drive_cache_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193898/trunk/src/chrome/browser/chromeos/drive/drive_cache_unittest.cc
+END
+drive_system_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/drive_system_service_unittest.cc
+END
+drive_resource_metadata_storage_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/193091/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata_storage_unittest.cc
+END
+drive_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/191154/trunk/src/chrome/browser/chromeos/drive/drive_test_util.cc
+END
+search_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193083/trunk/src/chrome/browser/chromeos/drive/search_metadata.h
+END
+drive_file_system_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/drive_file_system_util.cc
+END
+drive_task_executor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193319/trunk/src/chrome/browser/chromeos/drive/drive_task_executor.h
+END
+resource_entry_conversion_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/192583/trunk/src/chrome/browser/chromeos/drive/resource_entry_conversion_unittest.cc
+END
+drive_file_system_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/166118/trunk/src/chrome/browser/chromeos/drive/drive_file_system_metadata.cc
+END
+drive_file_system_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/192962/trunk/src/chrome/browser/chromeos/drive/drive_file_system_proxy.cc
+END
+stale_cache_files_remover.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/188998/trunk/src/chrome/browser/chromeos/drive/stale_cache_files_remover.h
+END
+event_logger_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/168497/trunk/src/chrome/browser/chromeos/drive/event_logger_unittest.cc
+END
+drive_resource_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata.h
+END
+drive_prefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/188998/trunk/src/chrome/browser/chromeos/drive/drive_prefetcher.h
+END
+file_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/file_change_unittest.cc
+END
+drive_file_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/169416/trunk/src/chrome/browser/chromeos/drive/drive_file_error.h
+END
+file_write_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/file_write_helper.cc
+END
+mock_directory_change_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/161523/trunk/src/chrome/browser/chromeos/drive/mock_directory_change_observer.cc
+END
+drive_cache_metadata_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/186410/trunk/src/chrome/browser/chromeos/drive/drive_cache_metadata_unittest.cc
+END
+drive_system_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/drive_system_service.cc
+END
+drive_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/193898/trunk/src/chrome/browser/chromeos/drive/drive_cache.h
+END
+drive_url_request_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193105/trunk/src/chrome/browser/chromeos/drive/drive_url_request_job.h
+END
+drive_download_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/drive_download_handler.h
+END
+fake_drive_file_system_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/192555/trunk/src/chrome/browser/chromeos/drive/fake_drive_file_system_unittest.cc
+END
+fake_drive_file_system.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/fake_drive_file_system.cc
+END
+drive_sync_client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/chromeos/drive/drive_sync_client.cc
+END
+search_metadata_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193591/trunk/src/chrome/browser/chromeos/drive/search_metadata_unittest.cc
+END
+drive_sync_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/188998/trunk/src/chrome/browser/chromeos/drive/drive_sync_client.h
+END
+drive_cache_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/161523/trunk/src/chrome/browser/chromeos/drive/drive_cache_observer.h
+END
+drive_resource_metadata_storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193091/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata_storage.h
+END
+fake_free_disk_space_getter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/173111/trunk/src/chrome/browser/chromeos/drive/fake_free_disk_space_getter.cc
+END
+drive_file_stream_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/190942/trunk/src/chrome/browser/chromeos/drive/drive_file_stream_reader.h
+END
+drive_file_system_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193927/trunk/src/chrome/browser/chromeos/drive/drive_file_system_unittest.cc
+END
+stale_cache_files_remover.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/188998/trunk/src/chrome/browser/chromeos/drive/stale_cache_files_remover.cc
+END
+resource_entry_conversion.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/192583/trunk/src/chrome/browser/chromeos/drive/resource_entry_conversion.cc
+END
+mock_drive_cache_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/161523/trunk/src/chrome/browser/chromeos/drive/mock_drive_cache_observer.h
+END
+change_list_loader_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193045/trunk/src/chrome/browser/chromeos/drive/change_list_loader_observer.h
+END
+change_list_processor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/change_list_processor.cc
+END
+drive_resource_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193587/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata.cc
+END
+drive_prefetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/188998/trunk/src/chrome/browser/chromeos/drive/drive_prefetcher.cc
+END
+change_list_processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/change_list_processor.h
+END
+event_logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/167647/trunk/src/chrome/browser/chromeos/drive/event_logger.h
+END
+mock_drive_file_system.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/161523/trunk/src/chrome/browser/chromeos/drive/mock_drive_file_system.cc
+END
+file_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/chromeos/drive/file_change.h
+END
+drive_cache.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193007/trunk/src/chrome/browser/chromeos/drive/drive_cache.cc
+END
+drive_download_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/183063/trunk/src/chrome/browser/chromeos/drive/drive_download_handler_unittest.cc
+END
+drive_url_request_job_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193105/trunk/src/chrome/browser/chromeos/drive/drive_url_request_job_unittest.cc
+END
+drive_cache_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/chromeos/drive/drive_cache_metadata.h
+END
+drive_file_system_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/drive_file_system_interface.h
+END
+drive_sync_client_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/190386/trunk/src/chrome/browser/chromeos/drive/drive_sync_client_unittest.cc
+END
+drive_resource_metadata_storage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193091/trunk/src/chrome/browser/chromeos/drive/drive_resource_metadata_storage.cc
+END
+fake_drive_file_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/fake_drive_file_system.h
+END
+search_metadata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193617/trunk/src/chrome/browser/chromeos/drive/search_metadata.cc
+END
+change_list_loader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193606/trunk/src/chrome/browser/chromeos/drive/change_list_loader.cc
+END
+drive_scheduler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193895/trunk/src/chrome/browser/chromeos/drive/drive_scheduler.cc
+END
+drive_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/190450/trunk/src/chrome/browser/chromeos/drive/drive_test_util.h
+END
+fake_free_disk_space_getter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/173111/trunk/src/chrome/browser/chromeos/drive/fake_free_disk_space_getter.h
+END
+drive_task_executor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/194090/trunk/src/chrome/browser/chromeos/drive/drive_task_executor.cc
+END
+drive_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193678/trunk/src/chrome/browser/chromeos/drive/drive_scheduler.h
+END
+drive_file_system_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193362/trunk/src/chrome/browser/chromeos/drive/drive_file_system_util.h
+END
+mock_drive_cache_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/161523/trunk/src/chrome/browser/chromeos/drive/mock_drive_cache_observer.cc
+END
+drive_file_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/194274/trunk/src/chrome/browser/chromeos/drive/drive_file_system.h
+END
+drive_file_system_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/drive_file_system_proxy.h
+END
+event_logger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/167647/trunk/src/chrome/browser/chromeos/drive/event_logger.cc
+END
+drive_file_error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/174148/trunk/src/chrome/browser/chromeos/drive/drive_file_error.cc
+END
+drive_webapps_registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/186958/trunk/src/chrome/browser/chromeos/drive/drive_webapps_registry_unittest.cc
+END
+drive_webapps_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/185703/trunk/src/chrome/browser/chromeos/drive/drive_webapps_registry.cc
+END
+file_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/file_change.cc
+END
+drive_file_system_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193045/trunk/src/chrome/browser/chromeos/drive/drive_file_system_observer.h
+END
+drive.proto
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/192298/trunk/src/chrome/browser/chromeos/drive/drive.proto
+END
+drive_protocol_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/187836/trunk/src/chrome/browser/chromeos/drive/drive_protocol_handler.cc
+END
+file_write_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/drive/file_write_helper_unittest.cc
+END
+drive_protocol_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/185488/trunk/src/chrome/browser/chromeos/drive/drive_protocol_handler.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/161303/trunk/src/chrome/browser/chromeos/drive/OWNERS
+END

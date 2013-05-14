@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path
+END
+bad_path.pem
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path/bad_path.pem
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path/background.js
+END
+bad_path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path/bad_path.sh
+END
+product_logo_128.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path/product_logo_128.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/153583/trunk/src/chrome/test/data/extensions/unpacker/bad_path/manifest.json
+END

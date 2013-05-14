@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/193998/trunk/src/chrome/browser/favicon
+END
+favicon_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/favicon/favicon_service_factory.cc
+END
+favicon_tab_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/186983/trunk/src/chrome/browser/favicon/favicon_tab_helper.h
+END
+favicon_handler_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/186983/trunk/src/chrome/browser/favicon/favicon_handler_delegate.h
+END
+favicon_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/155073/trunk/src/chrome/browser/favicon/favicon_service_factory.h
+END
+favicon_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/186983/trunk/src/chrome/browser/favicon/favicon_handler_unittest.cc
+END
+favicon_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/189273/trunk/src/chrome/browser/favicon/favicon_handler.cc
+END
+favicon_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/192648/trunk/src/chrome/browser/favicon/favicon_util.cc
+END
+favicon_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/191304/trunk/src/chrome/browser/favicon/favicon_handler.h
+END
+favicon_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/192648/trunk/src/chrome/browser/favicon/favicon_util.h
+END
+favicon_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/187361/trunk/src/chrome/browser/favicon/favicon_service.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/189273/trunk/src/chrome/browser/favicon/DEPS
+END
+favicon_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/178432/trunk/src/chrome/browser/favicon/favicon_service.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/157370/trunk/src/chrome/browser/favicon/OWNERS
+END
+favicon_tab_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193998/trunk/src/chrome/browser/favicon/favicon_tab_helper.cc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/170311/trunk/src/chrome/common/extensions/docs/server2/test_data/samples_data_source
+END
+expected.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/170311/trunk/src/chrome/common/extensions/docs/server2/test_data/samples_data_source/expected.json
+END
+samples.json
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/170311/trunk/src/chrome/common/extensions/docs/server2/test_data/samples_data_source/samples.json
+END

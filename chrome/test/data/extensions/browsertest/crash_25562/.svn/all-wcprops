@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/175527/trunk/src/chrome/test/data/extensions/browsertest/crash_25562
+END
+script.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/175527/trunk/src/chrome/test/data/extensions/browsertest/crash_25562/script.js
+END
+chrome-16.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/75434/trunk/src/chrome/test/data/extensions/browsertest/crash_25562/chrome-16.png
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/175527/trunk/src/chrome/test/data/extensions/browsertest/crash_25562/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/119647/trunk/src/chrome/test/data/extensions/browsertest/crash_25562/manifest.json
+END

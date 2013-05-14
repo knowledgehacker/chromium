@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/extensions/api/developer_private
+END
+entry_picker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/extensions/api/developer_private/entry_picker.cc
+END
+developer_private_api_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/173811/trunk/src/chrome/browser/extensions/api/developer_private/developer_private_api_factory.cc
+END
+entry_picker.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/183156/trunk/src/chrome/browser/extensions/api/developer_private/entry_picker.h
+END
+developer_private_api_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/173811/trunk/src/chrome/browser/extensions/api/developer_private/developer_private_api_factory.h
+END
+developer_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/extensions/api/developer_private/developer_private_api.cc
+END
+developer_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/183172/trunk/src/chrome/browser/extensions/api/developer_private/developer_private_apitest.cc
+END
+developer_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/193836/trunk/src/chrome/browser/extensions/api/developer_private/developer_private_api.h
+END

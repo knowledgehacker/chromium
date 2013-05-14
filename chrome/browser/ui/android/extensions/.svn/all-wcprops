@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/188667/trunk/src/chrome/browser/ui/android/extensions
+END
+extension_install_ui_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/188667/trunk/src/chrome/browser/ui/android/extensions/extension_install_ui_android.cc
+END
+extension_install_dialog_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/174120/trunk/src/chrome/browser/ui/android/extensions/extension_install_dialog_android.cc
+END
+extension_install_ui_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/181875/trunk/src/chrome/browser/ui/android/extensions/extension_install_ui_android.h
+END
+extension_view_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/158219/trunk/src/chrome/browser/ui/android/extensions/extension_view_android.cc
+END
+extension_view_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/158219/trunk/src/chrome/browser/ui/android/extensions/extension_view_android.h
+END

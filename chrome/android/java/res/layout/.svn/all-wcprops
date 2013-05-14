@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/193732/trunk/src/chrome/android/java/res/layout
+END
+autofill_editing_layout_shipping.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/192268/trunk/src/chrome/android/java/res/layout/autofill_editing_layout_shipping.xml
+END
+autofill_menu_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/191848/trunk/src/chrome/android/java/res/layout/autofill_menu_item.xml
+END
+autofill_editing_layout_credit_card.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/192268/trunk/src/chrome/android/java/res/layout/autofill_editing_layout_credit_card.xml
+END
+website_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/179027/trunk/src/chrome/android/java/res/layout/website_settings.xml
+END
+autofill_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/171725/trunk/src/chrome/android/java/res/layout/autofill_text.xml
+END
+autofill_editing_layout_email.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193732/trunk/src/chrome/android/java/res/layout/autofill_editing_layout_email.xml
+END
+js_modal_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/173582/trunk/src/chrome/android/java/res/layout/js_modal_dialog.xml
+END
+autofill_dialog_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193732/trunk/src/chrome/android/java/res/layout/autofill_dialog_content.xml
+END
+autofill_general_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193546/trunk/src/chrome/android/java/res/layout/autofill_general_layout.xml
+END
+autofill_dialog_title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/187071/trunk/src/chrome/android/java/res/layout/autofill_dialog_title.xml
+END

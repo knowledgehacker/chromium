@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/193805/trunk/src/chrome/test/telemetry/chromeos
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/193805/trunk/src/chrome/test/telemetry/chromeos/__init__.py
+END
+login_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193805/trunk/src/chrome/test/telemetry/chromeos/login_unittest.py
+END

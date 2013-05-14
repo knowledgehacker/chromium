@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/screensaver
+END
+screensaver_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/180189/trunk/src/chrome/browser/chromeos/screensaver/screensaver_controller.cc
+END
+screensaver_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/180189/trunk/src/chrome/browser/chromeos/screensaver/screensaver_controller.h
+END
+screensaver_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/chromeos/screensaver/screensaver_controller_browsertest.cc
+END

@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/chrome/!svn/ver/192742/trunk/src/chrome/app/nibs
+END
+SadTab.xib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/SadTab.xib
+END
+Panel.xib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/Panel.xib
+END
+ContentBlockedPlugins.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentBlockedPlugins.xib
+END
+ExtensionInstallPromptInline.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/167512/trunk/src/chrome/app/nibs/ExtensionInstallPromptInline.xib
+END
+ExtensionInstallPrompt.xib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/167512/trunk/src/chrome/app/nibs/ExtensionInstallPrompt.xib
+END
+FullscreenExitBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/FullscreenExitBubble.xib
+END
+ContentBlockedSimple.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/181651/trunk/src/chrome/app/nibs/ContentBlockedSimple.xib
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/192742/trunk/src/chrome/app/nibs/MainMenu.xib
+END
+ScreenCaptureNotification.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/190041/trunk/src/chrome/app/nibs/ScreenCaptureNotification.xib
+END
+ContentBlockedMixedScript.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentBlockedMixedScript.xib
+END
+CookieDetailsView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/CookieDetailsView.xib
+END
+WrenchMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/WrenchMenu.xib
+END
+OneClickSigninBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/181071/trunk/src/chrome/app/nibs/OneClickSigninBubble.xib
+END
+CollectedCookies.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/169621/trunk/src/chrome/app/nibs/CollectedCookies.xib
+END
+BookmarkEditor.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/BookmarkEditor.xib
+END
+ImportProgressDialog.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ImportProgressDialog.xib
+END
+OneClickSigninDialog.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/181071/trunk/src/chrome/app/nibs/OneClickSigninDialog.xib
+END
+BookmarkBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/BookmarkBubble.xib
+END
+AvatarMenuItem.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/AvatarMenuItem.xib
+END
+ContentBlockedGeolocation.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentBlockedGeolocation.xib
+END
+InfoBarContainer.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/InfoBarContainer.xib
+END
+HttpAuthLoginSheet.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/169584/trunk/src/chrome/app/nibs/HttpAuthLoginSheet.xib
+END
+DownloadItem.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/DownloadItem.xib
+END
+GlobalErrorBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/GlobalErrorBubble.xib
+END
+ExtensionInstalledBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/179288/trunk/src/chrome/app/nibs/ExtensionInstalledBubble.xib
+END
+ContentBlockedMedia.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/190090/trunk/src/chrome/app/nibs/ContentBlockedMedia.xib
+END
+ExtensionInstallPromptBundle.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/167512/trunk/src/chrome/app/nibs/ExtensionInstallPromptBundle.xib
+END
+EditSearchEngine.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/EditSearchEngine.xib
+END
+BookmarkNameFolder.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/BookmarkNameFolder.xib
+END
+Toolbar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/191948/trunk/src/chrome/app/nibs/Toolbar.xib
+END
+FindBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/FindBar.xib
+END
+SaveAccessoryView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/SaveAccessoryView.xib
+END
+ContentBlockedPopups.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentBlockedPopups.xib
+END
+AboutIPC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/AboutIPC.xib
+END
+BookmarkAllTabs.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/BookmarkAllTabs.xib
+END
+HungRendererDialog.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/HungRendererDialog.xib
+END
+ContentBlockedCookies.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentBlockedCookies.xib
+END
+ExtensionInstallPromptNoWarnings.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/167512/trunk/src/chrome/app/nibs/ExtensionInstallPromptNoWarnings.xib
+END
+ContentProtocolHandlers.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ContentProtocolHandlers.xib
+END
+BookmarkBarFolderWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/187069/trunk/src/chrome/app/nibs/BookmarkBarFolderWindow.xib
+END
+InfoBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/InfoBar.xib
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/181651/trunk/src/chrome/app/nibs/PRESUBMIT.py
+END
+ExtensionInstalledBubbleBundle.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/161306/trunk/src/chrome/app/nibs/ExtensionInstalledBubbleBundle.xib
+END
+SpeechRecognitionBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/SpeechRecognitionBubble.xib
+END
+ChromeToMobileBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/ChromeToMobileBubble.xib
+END
+Notification.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/Notification.xib
+END
+FirstRunBubble.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/FirstRunBubble.xib
+END
+DownloadShelf.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/191618/trunk/src/chrome/app/nibs/DownloadShelf.xib
+END
+BookmarkBar.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/192336/trunk/src/chrome/app/nibs/BookmarkBar.xib
+END
+ActionBoxMenuItem.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/162058/trunk/src/chrome/app/nibs/ActionBoxMenuItem.xib
+END
+FirstRunDialog.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/FirstRunDialog.xib
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/chrome/!svn/ver/95319/trunk/src/chrome/app/nibs/OWNERS
+END
+TaskManager.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/157690/trunk/src/chrome/app/nibs/TaskManager.xib
+END

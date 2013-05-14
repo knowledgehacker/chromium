@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/192087/trunk/src/chrome/browser/extensions/api/idle
+END
+idle_manager_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/168365/trunk/src/chrome/browser/extensions/api/idle/idle_manager_factory.cc
+END
+idle_manager_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/168365/trunk/src/chrome/browser/extensions/api/idle/idle_manager_factory.h
+END
+idle_api_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/169284/trunk/src/chrome/browser/extensions/api/idle/idle_api_constants.cc
+END
+idle_api_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/169284/trunk/src/chrome/browser/extensions/api/idle/idle_api_constants.h
+END
+idle_api_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/192087/trunk/src/chrome/browser/extensions/api/idle/idle_api_unittest.cc
+END
+idle_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/168365/trunk/src/chrome/browser/extensions/api/idle/idle_api.cc
+END
+idle_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/idle/idle_apitest.cc
+END
+idle_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/171719/trunk/src/chrome/browser/extensions/api/idle/idle_manager.cc
+END
+idle_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/177787/trunk/src/chrome/browser/extensions/api/idle/idle_api.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/159359/trunk/src/chrome/browser/extensions/api/idle/OWNERS
+END
+idle_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/168365/trunk/src/chrome/browser/extensions/api/idle/idle_manager.h
+END

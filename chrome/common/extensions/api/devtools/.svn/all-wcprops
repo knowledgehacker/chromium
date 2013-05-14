@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/190130/trunk/src/chrome/common/extensions/api/devtools
+END
+network.json
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/149291/trunk/src/chrome/common/extensions/api/devtools/network.json
+END
+experimental_console.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/149291/trunk/src/chrome/common/extensions/api/devtools/experimental_console.json
+END
+panels.json
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/190130/trunk/src/chrome/common/extensions/api/devtools/panels.json
+END
+inspected_window.json
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/149291/trunk/src/chrome/common/extensions/api/devtools/inspected_window.json
+END
+experimental_audits.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/177361/trunk/src/chrome/common/extensions/api/devtools/experimental_audits.json
+END

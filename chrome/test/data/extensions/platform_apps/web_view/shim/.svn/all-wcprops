@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/188665/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/188665/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/main.js
+END
+guest_noreferrer.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/188665/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/guest_noreferrer.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/185434/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/main.html
+END
+guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/188665/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/guest.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/178992/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/178992/trunk/src/chrome/test/data/extensions/platform_apps/web_view/shim/manifest.json
+END

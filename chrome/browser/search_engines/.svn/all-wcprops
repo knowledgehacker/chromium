@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/search_engines
+END
+template_url_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/search_engines/template_url_fetcher_unittest.cc
+END
+template_url_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/192083/trunk/src/chrome/browser/search_engines/template_url_unittest.cc
+END
+search_engine_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/173169/trunk/src/chrome/browser/search_engines/search_engine_type.h
+END
+prepopulated_engines.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/189111/trunk/src/chrome/browser/search_engines/prepopulated_engines.json
+END
+search_provider_install_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/search_provider_install_data.h
+END
+template_url_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/search_engines/template_url_service_factory.cc
+END
+search_host_to_urls_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/search_host_to_urls_map.h
+END
+template_url_prepopulate_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/search_engines/template_url_prepopulate_data.h
+END
+template_url_parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/search_engines/template_url_parser_unittest.cc
+END
+template_url_service_util_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/139300/trunk/src/chrome/browser/search_engines/template_url_service_util_unittest.cc
+END
+template_url_service_test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/190317/trunk/src/chrome/browser/search_engines/template_url_service_test_util.cc
+END
+search_terms_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/189111/trunk/src/chrome/browser/search_engines/search_terms_data.h
+END
+search_terms_data_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/171954/trunk/src/chrome/browser/search_engines/search_terms_data_android.h
+END
+template_url_service_test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/189030/trunk/src/chrome/browser/search_engines/template_url_service_test_util.h
+END
+template_url_scraper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/search_engines/template_url_scraper_unittest.cc
+END
+util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/search_engines/util.cc
+END
+template_url_service_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/191314/trunk/src/chrome/browser/search_engines/template_url_service_android.cc
+END
+template_url_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/192681/trunk/src/chrome/browser/search_engines/template_url_service.cc
+END
+search_provider_install_state_message_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/174868/trunk/src/chrome/browser/search_engines/search_provider_install_state_message_filter.cc
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/180627/trunk/src/chrome/browser/search_engines/util.h
+END
+template_url_service_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/184724/trunk/src/chrome/browser/search_engines/template_url_service_android.h
+END
+template_url_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/192681/trunk/src/chrome/browser/search_engines/template_url_service.h
+END
+template_url_fetcher_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/155073/trunk/src/chrome/browser/search_engines/template_url_fetcher_factory.cc
+END
+search_provider_install_data_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/182026/trunk/src/chrome/browser/search_engines/search_provider_install_data_unittest.cc
+END
+template_url_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/181564/trunk/src/chrome/browser/search_engines/template_url_fetcher.cc
+END
+template_url.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/192083/trunk/src/chrome/browser/search_engines/template_url.cc
+END
+template_url_fetcher_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/template_url_fetcher_callbacks.h
+END
+search_provider_install_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/187965/trunk/src/chrome/browser/search_engines/search_provider_install_data.cc
+END
+template_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/189981/trunk/src/chrome/browser/search_engines/template_url.h
+END
+template_url_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/template_url_fetcher.h
+END
+template_url_prepopulate_data_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/search_engines/template_url_prepopulate_data_unittest.cc
+END
+search_host_to_urls_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/140608/trunk/src/chrome/browser/search_engines/search_host_to_urls_map_unittest.cc
+END
+template_url_prepopulate_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/191562/trunk/src/chrome/browser/search_engines/template_url_prepopulate_data.cc
+END
+template_url_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/search_engines/template_url_service_factory.h
+END
+search_host_to_urls_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/140608/trunk/src/chrome/browser/search_engines/search_host_to_urls_map.cc
+END
+search_terms_data_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/171954/trunk/src/chrome/browser/search_engines/search_terms_data_android.cc
+END
+search_terms_data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/190829/trunk/src/chrome/browser/search_engines/search_terms_data.cc
+END
+template_url_service_sync_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/182026/trunk/src/chrome/browser/search_engines/template_url_service_sync_unittest.cc
+END
+template_url_parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/181564/trunk/src/chrome/browser/search_engines/template_url_parser.cc
+END
+template_url_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/template_url_parser.h
+END
+template_url_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/159763/trunk/src/chrome/browser/search_engines/template_url_id.h
+END
+template_url_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/192681/trunk/src/chrome/browser/search_engines/template_url_service_unittest.cc
+END
+prepopulated_engines_schema.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/175656/trunk/src/chrome/browser/search_engines/prepopulated_engines_schema.json
+END
+search_provider_install_state_message_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/174868/trunk/src/chrome/browser/search_engines/search_provider_install_state_message_filter.h
+END
+template_url_service_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/search_engines/template_url_service_observer.h
+END
+template_url_fetcher_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/155073/trunk/src/chrome/browser/search_engines/template_url_fetcher_factory.h
+END
+prepopulated_engines.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/168430/trunk/src/chrome/browser/search_engines/prepopulated_engines.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/148406/trunk/src/chrome/browser/search_engines/OWNERS
+END

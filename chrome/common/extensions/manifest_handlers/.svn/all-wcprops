@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/193838/trunk/src/chrome/common/extensions/manifest_handlers
+END
+kiosk_enabled_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/191313/trunk/src/chrome/common/extensions/manifest_handlers/kiosk_enabled_info.cc
+END
+content_scripts_manifest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/192720/trunk/src/chrome/common/extensions/manifest_handlers/content_scripts_manifest_unittest.cc
+END
+offline_enabled_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/191240/trunk/src/chrome/common/extensions/manifest_handlers/offline_enabled_info.cc
+END
+kiosk_enabled_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/191313/trunk/src/chrome/common/extensions/manifest_handlers/kiosk_enabled_info.h
+END
+icons_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193838/trunk/src/chrome/common/extensions/manifest_handlers/icons_handler.cc
+END
+offline_enabled_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/191240/trunk/src/chrome/common/extensions/manifest_handlers/offline_enabled_info.h
+END
+icons_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193838/trunk/src/chrome/common/extensions/manifest_handlers/icons_handler.h
+END
+app_isolation_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/192007/trunk/src/chrome/common/extensions/manifest_handlers/app_isolation_info.cc
+END
+sandboxed_page_info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/190865/trunk/src/chrome/common/extensions/manifest_handlers/sandboxed_page_info.cc
+END
+content_scripts_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/192720/trunk/src/chrome/common/extensions/manifest_handlers/content_scripts_handler.cc
+END
+app_isolation_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/192007/trunk/src/chrome/common/extensions/manifest_handlers/app_isolation_info.h
+END
+sandboxed_page_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/190865/trunk/src/chrome/common/extensions/manifest_handlers/sandboxed_page_info.h
+END
+requirements_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/190570/trunk/src/chrome/common/extensions/manifest_handlers/requirements_handler.cc
+END
+content_scripts_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/192720/trunk/src/chrome/common/extensions/manifest_handlers/content_scripts_handler.h
+END
+requirements_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/190570/trunk/src/chrome/common/extensions/manifest_handlers/requirements_handler.h
+END
+exclude_matches_manifest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/190141/trunk/src/chrome/common/extensions/manifest_handlers/exclude_matches_manifest_unittest.cc
+END

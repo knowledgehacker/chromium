@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/website_settings
+END
+permission_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/187769/trunk/src/chrome/browser/ui/website_settings/permission_menu_model.cc
+END
+website_settings_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/website_settings/website_settings_infobar_delegate.cc
+END
+permission_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/187769/trunk/src/chrome/browser/ui/website_settings/permission_menu_model.h
+END
+website_settings_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/website_settings/website_settings_infobar_delegate.h
+END
+website_settings_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/168085/trunk/src/chrome/browser/ui/website_settings/website_settings_ui.cc
+END
+website_settings_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/154137/trunk/src/chrome/browser/ui/website_settings/website_settings_ui.h
+END
+website_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/website_settings/website_settings_unittest.cc
+END
+website_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/website_settings/website_settings.cc
+END
+website_settings_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/167454/trunk/src/chrome/browser/ui/website_settings/website_settings_utils.cc
+END
+website_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/178753/trunk/src/chrome/browser/ui/website_settings/website_settings.h
+END
+website_settings_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/150858/trunk/src/chrome/browser/ui/website_settings/website_settings_utils.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140436/trunk/src/chrome/browser/ui/website_settings/OWNERS
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193303/trunk/src/chrome/browser/extensions/api/push_messaging
+END
+sync_setup_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/189394/trunk/src/chrome/browser/extensions/api/push_messaging/sync_setup_helper.cc
+END
+sync_setup_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/push_messaging/sync_setup_helper.h
+END
+push_messaging_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/189394/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_apitest.cc
+END
+push_messaging_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/193303/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_api.cc
+END
+push_messaging_invalidation_handler_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/chrome/!svn/ver/152877/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_invalidation_handler_delegate.h
+END
+push_messaging_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193303/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_api.h
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/186079/trunk/src/chrome/browser/extensions/api/push_messaging/DEPS
+END
+push_messaging_canary_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_canary_test.cc
+END
+push_messaging_invalidation_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/chrome/!svn/ver/186079/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_invalidation_handler_unittest.cc
+END
+push_messaging_invalidation_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/189394/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_invalidation_handler.cc
+END
+obfuscated_gaia_id_fetcher_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/153108/trunk/src/chrome/browser/extensions/api/push_messaging/obfuscated_gaia_id_fetcher_unittest.cc
+END
+push_messaging_invalidation_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/189394/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_invalidation_handler.h
+END
+obfuscated_gaia_id_fetcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/172100/trunk/src/chrome/browser/extensions/api/push_messaging/obfuscated_gaia_id_fetcher.cc
+END
+obfuscated_gaia_id_fetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/155312/trunk/src/chrome/browser/extensions/api/push_messaging/obfuscated_gaia_id_fetcher.h
+END
+push_messaging_invalidation_mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/189394/trunk/src/chrome/browser/extensions/api/push_messaging/push_messaging_invalidation_mapper.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/159359/trunk/src/chrome/browser/extensions/api/push_messaging/OWNERS
+END

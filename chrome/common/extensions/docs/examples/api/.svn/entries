@@ -1,0 +1,136 @@
+10
+
+dir
+194279
+https://src.chromium.org/chrome/trunk/src/chrome/common/extensions/docs/examples/api
+https://src.chromium.org/chrome
+
+
+
+2013-04-12T05:50:57.717599Z
+193858
+kalman@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+debugger
+dir
+
+speechInput
+dir
+
+bookmarks
+dir
+
+downloads
+dir
+
+windows
+dir
+
+contentSettings
+dir
+
+contextMenus
+dir
+
+cookies
+dir
+
+devtools
+dir
+
+storage
+dir
+
+input.ime
+dir
+
+notifications
+dir
+
+pageAction
+dir
+
+omnibox
+dir
+
+messaging
+dir
+
+record
+dir
+
+override
+dir
+
+i18n
+dir
+
+browserAction
+dir
+
+browsingData
+dir
+
+fontSettings
+dir
+
+tabs
+dir
+
+power
+dir
+
+webNavigation
+dir
+
+systemInfo
+dir
+
+ttsEngine
+dir
+
+commands
+dir
+
+preferences
+dir
+
+history
+dir
+
+infobars
+dir
+
+processes
+dir
+
+topsites
+dir
+
+permissions
+dir
+
+extension
+dir
+
+idle
+dir
+
+eventPage
+dir
+

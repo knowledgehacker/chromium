@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded/main.js
+END
+displayad.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded/displayad.js
+END
+chrometest.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded/chrometest.js
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded/index.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/190043/trunk/src/chrome/test/data/extensions/platform_apps/ad_view/ad_network_loaded/manifest.json
+END

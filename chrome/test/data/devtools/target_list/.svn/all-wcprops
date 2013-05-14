@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/192012/trunk/src/chrome/test/data/devtools/target_list
+END
+favicon.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/187263/trunk/src/chrome/test/data/devtools/target_list/favicon.png
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/192012/trunk/src/chrome/test/data/devtools/target_list/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/187540/trunk/src/chrome/test/data/devtools/target_list/manifest.json
+END
+test_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/187540/trunk/src/chrome/test/data/devtools/target_list/test_page.html
+END

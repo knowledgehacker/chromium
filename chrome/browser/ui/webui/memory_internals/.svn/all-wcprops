@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/179319/trunk/src/chrome/browser/ui/webui/memory_internals
+END
+memory_internals_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/179319/trunk/src/chrome/browser/ui/webui/memory_internals/memory_internals_ui.cc
+END
+memory_internals_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/179319/trunk/src/chrome/browser/ui/webui/memory_internals/memory_internals_ui.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/179319/trunk/src/chrome/browser/ui/webui/memory_internals/OWNERS
+END

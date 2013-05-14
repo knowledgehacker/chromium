@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/176019/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/js
+END
+cr.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/169747/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/js/cr.js
+END
+event_tracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/163241/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/js/event_tracker.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/176019/trunk/src/chrome/common/extensions/docs/examples/api/fontSettings/js/util.js
+END

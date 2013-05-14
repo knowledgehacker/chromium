@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/191273/trunk/src/chrome/browser/chromeos/policy/proto
+END
+chrome_device_policy.proto
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/191273/trunk/src/chrome/browser/chromeos/policy/proto/chrome_device_policy.proto
+END
+install_attributes.proto
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/188065/trunk/src/chrome/browser/chromeos/policy/proto/install_attributes.proto
+END

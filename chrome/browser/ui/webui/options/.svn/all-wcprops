@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/webui/options
+END
+import_data_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/import_data_handler.h
+END
+preferences_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/webui/options/preferences_browsertest.cc
+END
+pepper_flash_content_settings_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/173371/trunk/src/chrome/browser/ui/webui/options/pepper_flash_content_settings_utils.h
+END
+language_dictionary_overlay_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/178704/trunk/src/chrome/browser/ui/webui/options/language_dictionary_overlay_handler.cc
+END
+options_sync_setup_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/options_sync_setup_handler.h
+END
+manage_profile_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/181535/trunk/src/chrome/browser/ui/webui/options/manage_profile_handler.h
+END
+font_settings_utils_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/webui/options/font_settings_utils_mac.mm
+END
+search_engine_manager_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/search_engine_manager_browsertest.js
+END
+startup_pages_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/189981/trunk/src/chrome/browser/ui/webui/options/startup_pages_handler.cc
+END
+content_options_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/content_options_browsertest.js
+END
+clear_browser_data_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/192511/trunk/src/chrome/browser/ui/webui/options/clear_browser_data_handler.cc
+END
+cookies_view_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/cookies_view_browsertest.js
+END
+clear_browser_data_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/clear_browser_data_handler.h
+END
+search_engine_manager_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/search_engine_manager_handler.h
+END
+password_manager_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/password_manager_browsertest.js
+END
+autofill_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/webui/options/autofill_options_handler.cc
+END
+browser_options_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/browser_options_browsertest.js
+END
+managed_user_set_passphrase_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/181905/trunk/src/chrome/browser/ui/webui/options/managed_user_set_passphrase_browsertest.js
+END
+language_options_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/language_options_browsertest.js
+END
+autofill_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/ui/webui/options/autofill_options_handler.h
+END
+advanced_options_utils_x11.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/ui/webui/options/advanced_options_utils_x11.cc
+END
+password_manager_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/password_manager_handler.h
+END
+managed_user_set_passphrase_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193644/trunk/src/chrome/browser/ui/webui/options/managed_user_set_passphrase_test.cc
+END
+import_data_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/181564/trunk/src/chrome/browser/ui/webui/options/import_data_handler.cc
+END
+core_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/core_options_handler.h
+END
+advanced_options_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/advanced_options_utils.h
+END
+options_sync_setup_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/170936/trunk/src/chrome/browser/ui/webui/options/options_sync_setup_handler.cc
+END
+advanced_options_utils_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/advanced_options_utils_mac.mm
+END
+certificate_manager_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/191582/trunk/src/chrome/browser/ui/webui/options/certificate_manager_browsertest.js
+END
+managed_user_settings_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193433/trunk/src/chrome/browser/ui/webui/options/managed_user_settings_handler.cc
+END
+language_dictionary_overlay_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/178704/trunk/src/chrome/browser/ui/webui/options/language_dictionary_overlay_handler.h
+END
+managed_user_settings_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193433/trunk/src/chrome/browser/ui/webui/options/managed_user_settings_handler.h
+END
+certificate_manager_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/191450/trunk/src/chrome/browser/ui/webui/options/certificate_manager_handler.h
+END
+managed_user_settings_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193644/trunk/src/chrome/browser/ui/webui/options/managed_user_settings_test.h
+END
+startup_pages_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/startup_pages_handler.h
+END
+home_page_overlay_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/189981/trunk/src/chrome/browser/ui/webui/options/home_page_overlay_handler.cc
+END
+font_settings_utils_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/font_settings_utils_win.cc
+END
+font_settings_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/webui/options/font_settings_handler.cc
+END
+options_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/163874/trunk/src/chrome/browser/ui/webui/options/options_browsertest.js
+END
+font_settings_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/font_settings_handler.h
+END
+handler_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/handler_options_handler.h
+END
+content_settings_exception_area_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/153391/trunk/src/chrome/browser/ui/webui/options/content_settings_exception_area_browsertest.js
+END
+options_ui_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/179199/trunk/src/chrome/browser/ui/webui/options/options_ui_browsertest.cc
+END
+options_ui_browsertest.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/options_ui_browsertest.h
+END
+core_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/182918/trunk/src/chrome/browser/ui/webui/options/core_options_handler.cc
+END
+language_options_dictionary_download_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/178704/trunk/src/chrome/browser/ui/webui/options/language_options_dictionary_download_browsertest.js
+END
+manage_profile_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/184894/trunk/src/chrome/browser/ui/webui/options/manage_profile_handler.cc
+END
+font_settings_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/font_settings_utils.h
+END
+advanced_options_utils_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/ui/webui/options/advanced_options_utils_win.cc
+END
+search_engine_manager_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/ui/webui/options/search_engine_manager_handler.cc
+END
+managed_user_passphrase_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/186069/trunk/src/chrome/browser/ui/webui/options/managed_user_passphrase_handler.h
+END
+cookies_view_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/172770/trunk/src/chrome/browser/ui/webui/options/cookies_view_handler.cc
+END
+media_devices_selection_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/webui/options/media_devices_selection_handler.cc
+END
+autofill_options_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/autofill_options_browsertest.js
+END
+home_page_overlay_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/home_page_overlay_handler.h
+END
+media_devices_selection_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/182368/trunk/src/chrome/browser/ui/webui/options/media_devices_selection_handler.h
+END
+cookies_view_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/172770/trunk/src/chrome/browser/ui/webui/options/cookies_view_handler.h
+END
+content_settings_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/webui/options/content_settings_handler.cc
+END
+content_settings_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/content_settings_handler.h
+END
+password_manager_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/webui/options/password_manager_handler.cc
+END
+options_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/179094/trunk/src/chrome/browser/ui/webui/options/options_ui.h
+END
+browser_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193694/trunk/src/chrome/browser/ui/webui/options/browser_options_handler.cc
+END
+language_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/183049/trunk/src/chrome/browser/ui/webui/options/language_options_handler.cc
+END
+language_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/language_options_handler.h
+END
+browser_options_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193694/trunk/src/chrome/browser/ui/webui/options/browser_options_handler.h
+END
+managed_user_set_passphrase_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/193644/trunk/src/chrome/browser/ui/webui/options/managed_user_set_passphrase_test.h
+END
+pepper_flash_content_settings_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/173371/trunk/src/chrome/browser/ui/webui/options/pepper_flash_content_settings_utils_unittest.cc
+END
+pepper_flash_content_settings_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/173371/trunk/src/chrome/browser/ui/webui/options/pepper_flash_content_settings_utils.cc
+END
+settings_format_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193599/trunk/src/chrome/browser/ui/webui/options/settings_format_browsertest.js
+END
+media_galleries_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/185109/trunk/src/chrome/browser/ui/webui/options/media_galleries_handler.cc
+END
+language_options_handler_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/webui/options/language_options_handler_common.cc
+END
+managed_user_settings_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/186069/trunk/src/chrome/browser/ui/webui/options/managed_user_settings_browsertest.js
+END
+edit_dictionary_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/177860/trunk/src/chrome/browser/ui/webui/options/edit_dictionary_browsertest.js
+END
+media_galleries_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/media_galleries_handler.h
+END
+language_options_handler_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/178704/trunk/src/chrome/browser/ui/webui/options/language_options_handler_common.h
+END
+preferences_browsertest.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/ui/webui/options/preferences_browsertest.h
+END
+certificate_manager_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/webui/options/certificate_manager_handler.cc
+END
+managed_user_settings_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193644/trunk/src/chrome/browser/ui/webui/options/managed_user_settings_test.cc
+END
+font_settings_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/152280/trunk/src/chrome/browser/ui/webui/options/font_settings_browsertest.js
+END
+managed_user_passphrase_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/webui/options/managed_user_passphrase_handler.cc
+END
+font_settings_utils_linux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/187077/trunk/src/chrome/browser/ui/webui/options/font_settings_utils_linux.cc
+END
+handler_options_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/192349/trunk/src/chrome/browser/ui/webui/options/handler_options_handler.cc
+END
+options_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/191562/trunk/src/chrome/browser/ui/webui/options/options_ui.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/185504/trunk/src/chrome/browser/ui/webui/options/OWNERS
+END
+language_options_handler_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193767/trunk/src/chrome/browser/ui/webui/options/language_options_handler_unittest.cc
+END

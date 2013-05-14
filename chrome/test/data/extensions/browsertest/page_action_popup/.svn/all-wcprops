@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/170173/trunk/src/chrome/test/data/extensions/browsertest/page_action_popup
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/169249/trunk/src/chrome/test/data/extensions/browsertest/page_action_popup/icon.png
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/170173/trunk/src/chrome/test/data/extensions/browsertest/page_action_popup/manifest.json
+END

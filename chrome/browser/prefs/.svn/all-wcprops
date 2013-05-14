@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/prefs
+END
+scoped_user_pref_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/prefs/scoped_user_pref_update.h
+END
+pref_service_syncable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/191047/trunk/src/chrome/browser/prefs/pref_service_syncable.cc
+END
+incognito_mode_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/prefs/incognito_mode_prefs.h
+END
+proxy_policy_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/prefs/proxy_policy_unittest.cc
+END
+chrome_pref_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/prefs/chrome_pref_service_factory.h
+END
+pref_model_associator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/191047/trunk/src/chrome/browser/prefs/pref_model_associator.cc
+END
+pref_service_syncable_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/prefs/pref_service_syncable_builder.h
+END
+pref_model_associator.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/191047/trunk/src/chrome/browser/prefs/pref_model_associator.h
+END
+chrome_pref_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/chrome_pref_service_unittest.cc
+END
+command_line_pref_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/prefs/command_line_pref_store_unittest.cc
+END
+proxy_prefs_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/182368/trunk/src/chrome/browser/prefs/proxy_prefs_unittest.cc
+END
+proxy_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/167959/trunk/src/chrome/browser/prefs/proxy_prefs.cc
+END
+session_startup_pref.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/prefs/session_startup_pref.cc
+END
+browser_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/prefs/browser_prefs.cc
+END
+session_startup_pref.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/prefs/session_startup_pref.h
+END
+scoped_user_pref_update_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/prefs/scoped_user_pref_update_unittest.cc
+END
+pref_service_mock_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/pref_service_mock_builder.cc
+END
+proxy_config_dictionary.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/prefs/proxy_config_dictionary.cc
+END
+incognito_mode_prefs_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/182026/trunk/src/chrome/browser/prefs/incognito_mode_prefs_unittest.cc
+END
+incognito_mode_prefs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/incognito_mode_prefs.cc
+END
+pref_service_mock_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/prefs/pref_service_mock_builder.h
+END
+proxy_config_dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/prefs/proxy_config_dictionary.h
+END
+pref_service_syncable.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/191047/trunk/src/chrome/browser/prefs/pref_service_syncable.h
+END
+chrome_pref_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/chrome_pref_service_factory.cc
+END
+pref_model_associator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/169058/trunk/src/chrome/browser/prefs/pref_model_associator_unittest.cc
+END
+pref_service_syncable_builder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/pref_service_syncable_builder.cc
+END
+pref_service_syncable_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/176616/trunk/src/chrome/browser/prefs/pref_service_syncable_observer.h
+END
+command_line_pref_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/185315/trunk/src/chrome/browser/prefs/command_line_pref_store.cc
+END
+command_line_pref_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/163354/trunk/src/chrome/browser/prefs/command_line_pref_store.h
+END
+pref_service_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/prefs/pref_service_browsertest.cc
+END
+session_startup_pref_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/prefs/session_startup_pref_unittest.cc
+END
+proxy_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/167959/trunk/src/chrome/browser/prefs/proxy_prefs.h
+END
+browser_prefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/185712/trunk/src/chrome/browser/prefs/browser_prefs.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/83047/trunk/src/chrome/browser/prefs/OWNERS
+END
+scoped_user_pref_update.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/prefs/scoped_user_pref_update.cc
+END
+proxy_config_dictionary_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/83882/trunk/src/chrome/browser/prefs/proxy_config_dictionary_unittest.cc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/181227/trunk/src/chrome/app/theme/touch_140_percent/win
+END
+otr_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/touch_140_percent/win/otr_icon.png
+END
+theme_frame_incognito_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/touch_140_percent/win/theme_frame_incognito_active.png
+END
+theme_default_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/touch_140_percent/win/theme_default_active.png
+END
+theme_frame_active.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/181227/trunk/src/chrome/app/theme/touch_140_percent/win/theme_frame_active.png
+END
+theme_default_inactive.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/180251/trunk/src/chrome/app/theme/touch_140_percent/win/theme_default_inactive.png
+END

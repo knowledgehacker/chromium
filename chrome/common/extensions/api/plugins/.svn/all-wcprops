@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/192720/trunk/src/chrome/common/extensions/api/plugins
+END
+plugins_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/192720/trunk/src/chrome/common/extensions/api/plugins/plugins_handler.cc
+END
+plugins_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/187771/trunk/src/chrome/common/extensions/api/plugins/plugins_handler.h
+END

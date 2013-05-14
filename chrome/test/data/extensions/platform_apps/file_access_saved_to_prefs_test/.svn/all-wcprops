@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/185066/trunk/src/chrome/test/data/extensions/platform_apps/file_access_saved_to_prefs_test
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/185066/trunk/src/chrome/test/data/extensions/platform_apps/file_access_saved_to_prefs_test/index.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/185066/trunk/src/chrome/test/data/extensions/platform_apps/file_access_saved_to_prefs_test/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/185066/trunk/src/chrome/test/data/extensions/platform_apps/file_access_saved_to_prefs_test/manifest.json
+END

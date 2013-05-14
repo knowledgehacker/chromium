@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity
+END
+identity_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/identity_api.cc
+END
+identity_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/identity_apitest.cc
+END
+identity_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/identity_api.h
+END
+web_auth_flow_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/web_auth_flow_unittest.cc
+END
+web_auth_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/web_auth_flow.cc
+END
+identity_signin_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/192471/trunk/src/chrome/browser/extensions/api/identity/identity_signin_flow.cc
+END
+web_auth_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193828/trunk/src/chrome/browser/extensions/api/identity/web_auth_flow.h
+END
+identity_signin_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/192471/trunk/src/chrome/browser/extensions/api/identity/identity_signin_flow.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos
+END
+mobile_activation.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/60570/trunk/src/chrome/test/data/chromeos/mobile_activation.html
+END
+oobe_webui_browsertest.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/177727/trunk/src/chrome/test/data/chromeos/oobe_webui_browsertest.js
+END

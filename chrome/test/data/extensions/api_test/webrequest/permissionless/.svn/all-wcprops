@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/175527/trunk/src/chrome/test/data/extensions/api_test/webrequest/permissionless
+END
+rules.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/175527/trunk/src/chrome/test/data/extensions/api_test/webrequest/permissionless/rules.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/163116/trunk/src/chrome/test/data/extensions/api_test/webrequest/permissionless/manifest.json
+END

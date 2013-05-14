@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/188460/trunk/src/chrome/test/data/extensions/api_test/i18nUpdate
+END
+messages2.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/188460/trunk/src/chrome/test/data/extensions/api_test/i18nUpdate/messages2.json
+END
+contentscript.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/188460/trunk/src/chrome/test/data/extensions/api_test/i18nUpdate/contentscript.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/188460/trunk/src/chrome/test/data/extensions/api_test/i18nUpdate/manifest.json
+END

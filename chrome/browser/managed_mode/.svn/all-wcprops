@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/193986/trunk/src/chrome/browser/managed_mode
+END
+managed_mode_interstitial.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/191227/trunk/src/chrome/browser/managed_mode/managed_mode_interstitial.cc
+END
+managed_mode_resource_throttle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/192948/trunk/src/chrome/browser/managed_mode/managed_mode_resource_throttle.cc
+END
+managed_mode_interstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/191227/trunk/src/chrome/browser/managed_mode/managed_mode_interstitial.h
+END
+managed_mode_resource_throttle.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/192948/trunk/src/chrome/browser/managed_mode/managed_mode_resource_throttle.h
+END
+managed_mode_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/184455/trunk/src/chrome/browser/managed_mode/managed_mode_unittest.cc
+END
+managed_mode_resource_throttle_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/193648/trunk/src/chrome/browser/managed_mode/managed_mode_resource_throttle_browsertest.cc
+END
+managed_mode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/193246/trunk/src/chrome/browser/managed_mode/managed_mode.cc
+END
+managed_user_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/177813/trunk/src/chrome/browser/managed_mode/managed_user_service_factory.cc
+END
+managed_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/managed_mode/managed_mode.h
+END
+managed_mode_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193648/trunk/src/chrome/browser/managed_mode/managed_mode_browsertest.cc
+END
+managed_user_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/177813/trunk/src/chrome/browser/managed_mode/managed_user_service_factory.h
+END
+managed_user_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193986/trunk/src/chrome/browser/managed_mode/managed_user_service_unittest.cc
+END
+managed_user_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193648/trunk/src/chrome/browser/managed_mode/managed_user_service.cc
+END
+managed_user_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193433/trunk/src/chrome/browser/managed_mode/managed_user_service.h
+END
+managed_mode_site_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/190078/trunk/src/chrome/browser/managed_mode/managed_mode_site_list.cc
+END
+scoped_extension_elevation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/192549/trunk/src/chrome/browser/managed_mode/scoped_extension_elevation.cc
+END
+managed_mode_site_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/190078/trunk/src/chrome/browser/managed_mode/managed_mode_site_list.h
+END
+scoped_extension_elevation.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/192549/trunk/src/chrome/browser/managed_mode/scoped_extension_elevation.h
+END
+managed_user_passphrase_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/181507/trunk/src/chrome/browser/managed_mode/managed_user_passphrase_unittest.cc
+END
+managed_user_passphrase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/181507/trunk/src/chrome/browser/managed_mode/managed_user_passphrase.cc
+END
+managed_user_passphrase.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/181507/trunk/src/chrome/browser/managed_mode/managed_user_passphrase.h
+END
+managed_mode_navigation_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193644/trunk/src/chrome/browser/managed_mode/managed_mode_navigation_observer.cc
+END
+managed_mode_url_filter_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/190762/trunk/src/chrome/browser/managed_mode/managed_mode_url_filter_unittest.cc
+END
+managed_mode_url_filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/188230/trunk/src/chrome/browser/managed_mode/managed_mode_url_filter.cc
+END
+managed_mode_navigation_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/192948/trunk/src/chrome/browser/managed_mode/managed_mode_navigation_observer.h
+END
+managed_mode_url_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/180986/trunk/src/chrome/browser/managed_mode/managed_mode_url_filter.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/164368/trunk/src/chrome/browser/managed_mode/OWNERS
+END

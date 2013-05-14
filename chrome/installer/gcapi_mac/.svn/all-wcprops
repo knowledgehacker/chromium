@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/168635/trunk/src/chrome/installer/gcapi_mac
+END
+gcapi_example_client.mm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/151490/trunk/src/chrome/installer/gcapi_mac/gcapi_example_client.mm
+END
+gcapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/168322/trunk/src/chrome/installer/gcapi_mac/gcapi.h
+END
+gcapi.mm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/168635/trunk/src/chrome/installer/gcapi_mac/gcapi.mm
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/151324/trunk/src/chrome/installer/gcapi_mac/OWNERS
+END

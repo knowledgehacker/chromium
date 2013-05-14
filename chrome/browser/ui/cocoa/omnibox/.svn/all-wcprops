@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/194035/trunk/src/chrome/browser/ui/cocoa/omnibox
+END
+omnibox_popup_view_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_popup_view_mac_unittest.mm
+END
+omnibox_popup_view_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/191171/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_popup_view_mac.mm
+END
+omnibox_view_mac_browsertest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/173281/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_view_mac_browsertest.mm
+END
+omnibox_view_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/192645/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_view_mac.h
+END
+omnibox_view_mac_unittest.mm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/192300/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_view_mac_unittest.mm
+END
+omnibox_view_mac.mm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/194035/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_view_mac.mm
+END
+omnibox_popup_view_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/171476/trunk/src/chrome/browser/ui/cocoa/omnibox/omnibox_popup_view_mac.h
+END

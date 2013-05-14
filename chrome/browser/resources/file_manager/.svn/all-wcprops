@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/194261/trunk/src/chrome/browser/resources/file_manager
+END
+mediaplayer.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/192718/trunk/src/chrome/browser/resources/file_manager/mediaplayer.html
+END
+gallery.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/192718/trunk/src/chrome/browser/resources/file_manager/gallery.html
+END
+manifest_new_ui.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193639/trunk/src/chrome/browser/resources/file_manager/manifest_new_ui.json
+END
+manifest_v1.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193639/trunk/src/chrome/browser/resources/file_manager/manifest_v1.json
+END
+video_player.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/192718/trunk/src/chrome/browser/resources/file_manager/video_player.html
+END
+photo_import.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/192718/trunk/src/chrome/browser/resources/file_manager/photo_import.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/194146/trunk/src/chrome/browser/resources/file_manager/main.html
+END
+action_choice.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/192718/trunk/src/chrome/browser/resources/file_manager/action_choice.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/177127/trunk/src/chrome/browser/resources/file_manager/OWNERS
+END
+main_new_ui.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/194146/trunk/src/chrome/browser/resources/file_manager/main_new_ui.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193639/trunk/src/chrome/browser/resources/file_manager/manifest.json
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/173551/trunk/src/chrome/test/data/extensions/api_test/system_indicator/unloaded
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/173551/trunk/src/chrome/test/data/extensions/api_test/system_indicator/unloaded/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/173551/trunk/src/chrome/test/data/extensions/api_test/system_indicator/unloaded/manifest.json
+END

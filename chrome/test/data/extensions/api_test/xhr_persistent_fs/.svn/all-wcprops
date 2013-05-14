@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/157900/trunk/src/chrome/test/data/extensions/api_test/xhr_persistent_fs
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/157900/trunk/src/chrome/test/data/extensions/api_test/xhr_persistent_fs/main.js
+END
+bg.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/157900/trunk/src/chrome/test/data/extensions/api_test/xhr_persistent_fs/bg.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/157900/trunk/src/chrome/test/data/extensions/api_test/xhr_persistent_fs/main.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/157900/trunk/src/chrome/test/data/extensions/api_test/xhr_persistent_fs/manifest.json
+END

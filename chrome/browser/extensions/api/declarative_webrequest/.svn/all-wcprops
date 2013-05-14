@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193714/trunk/src/chrome/browser/extensions/api/declarative_webrequest
+END
+webrequest_condition_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/187192/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition_unittest.cc
+END
+webrequest_condition.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/193104/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition.cc
+END
+webrequest_condition.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/180549/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition.h
+END
+request_stage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/166965/trunk/src/chrome/browser/extensions/api/declarative_webrequest/request_stage.cc
+END
+request_stage.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/166965/trunk/src/chrome/browser/extensions/api/declarative_webrequest/request_stage.h
+END
+webrequest_condition_attribute_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/chrome/!svn/ver/187192/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition_attribute_unittest.cc
+END
+webrequest_condition_attribute.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/186409/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition_attribute.cc
+END
+webrequest_condition_attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/chrome/!svn/ver/178882/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_condition_attribute.h
+END
+webrequest_action_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/187192/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_action_unittest.cc
+END
+webrequest_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/193071/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_constants.cc
+END
+webrequest_action.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/193071/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_action.cc
+END
+webrequest_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/193071/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_constants.h
+END
+webrequest_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/193071/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_action.h
+END
+webrequest_rules_registry_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/chrome/!svn/ver/193714/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_rules_registry_unittest.cc
+END
+webrequest_rules_registry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/193584/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_rules_registry.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/135670/trunk/src/chrome/browser/extensions/api/declarative_webrequest/OWNERS
+END
+webrequest_rules_registry.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/193584/trunk/src/chrome/browser/extensions/api/declarative_webrequest/webrequest_rules_registry.h
+END

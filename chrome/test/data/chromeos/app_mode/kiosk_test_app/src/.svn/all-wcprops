@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src
+END
+app_main.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/app_main.js
+END
+icon-16.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/icon-16.png
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/main.js
+END
+icon-128.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/icon-128.png
+END
+app_main.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/app_main.html
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193757/trunk/src/chrome/test/data/chromeos/app_mode/kiosk_test_app/src/manifest.json
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/169848/trunk/src/chrome/test/data/extensions/platform_apps/windows_api_properties
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/169848/trunk/src/chrome/test/data/extensions/platform_apps/windows_api_properties/main.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/169848/trunk/src/chrome/test/data/extensions/platform_apps/windows_api_properties/main.html
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/169848/trunk/src/chrome/test/data/extensions/platform_apps/windows_api_properties/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/169848/trunk/src/chrome/test/data/extensions/platform_apps/windows_api_properties/manifest.json
+END

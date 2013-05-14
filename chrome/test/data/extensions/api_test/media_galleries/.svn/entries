@@ -1,0 +1,52 @@
+10
+
+dir
+194279
+https://src.chromium.org/chrome/trunk/src/chrome/test/data/extensions/api_test/media_galleries
+https://src.chromium.org/chrome
+
+
+
+2013-04-10T20:46:51.247213Z
+193450
+gbillock@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+metadata
+dir
+
+no_galleries
+dir
+
+write_access
+dir
+
+read_access
+dir
+
+experimental
+dir
+
+no_access
+dir
+
+no_galleries_write
+dir
+
+access_attached
+dir
+

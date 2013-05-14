@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/ui/extensions
+END
+application_launch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/187236/trunk/src/chrome/browser/ui/extensions/application_launch.cc
+END
+app_metro_infobar_delegate_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/190306/trunk/src/chrome/browser/ui/extensions/app_metro_infobar_delegate_win.cc
+END
+shell_window.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/193838/trunk/src/chrome/browser/ui/extensions/shell_window.cc
+END
+application_launch.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/187236/trunk/src/chrome/browser/ui/extensions/application_launch.h
+END
+app_metro_infobar_delegate_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/190306/trunk/src/chrome/browser/ui/extensions/app_metro_infobar_delegate_win.h
+END
+shell_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/192952/trunk/src/chrome/browser/ui/extensions/shell_window.h
+END
+extension_install_ui_default.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/190829/trunk/src/chrome/browser/ui/extensions/extension_install_ui_default.cc
+END
+extension_install_ui_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/181875/trunk/src/chrome/browser/ui/extensions/extension_install_ui_default.h
+END
+extension_enable_flow_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/177703/trunk/src/chrome/browser/ui/extensions/extension_enable_flow_delegate.h
+END
+extension_enable_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/186790/trunk/src/chrome/browser/ui/extensions/extension_enable_flow.cc
+END
+extension_enable_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/177703/trunk/src/chrome/browser/ui/extensions/extension_enable_flow.h
+END
+native_app_window.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/192878/trunk/src/chrome/browser/ui/extensions/native_app_window.h
+END
+apps_metro_handler_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/192240/trunk/src/chrome/browser/ui/extensions/apps_metro_handler_win.cc
+END
+apps_metro_handler_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/192240/trunk/src/chrome/browser/ui/extensions/apps_metro_handler_win.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/166618/trunk/src/chrome/browser/ui/extensions/OWNERS
+END

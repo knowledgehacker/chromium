@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/chrome/!svn/ver/193040/trunk/src/chrome/tools/ipclist
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/164861/trunk/src/chrome/tools/ipclist/DEPS
+END
+ipclist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/172968/trunk/src/chrome/tools/ipclist/ipclist.cc
+END
+ipcfuzz.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/193040/trunk/src/chrome/tools/ipclist/ipcfuzz.cc
+END

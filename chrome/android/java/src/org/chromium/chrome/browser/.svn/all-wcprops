@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193732/trunk/src/chrome/android/java/src/org/chromium/chrome/browser
+END
+IntentHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/169932/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/IntentHelper.java
+END
+TabBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/191402/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/TabBase.java
+END
+ContentViewUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/152598/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ContentViewUtil.java
+END
+JavascriptAppModalDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/175139/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/JavascriptAppModalDialog.java
+END
+FindMatchRectsDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/154893/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/FindMatchRectsDetails.java
+END
+CertificateViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/179616/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/CertificateViewer.java
+END
+WebsiteSettingsPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/179027/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/WebsiteSettingsPopup.java
+END
+SSLClientCertificateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/187507/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/SSLClientCertificateRequest.java
+END
+ApplicationLifetime.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/177088/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ApplicationLifetime.java
+END
+NavigationPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/190831/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/NavigationPopup.java
+END
+ChromeBrowserProviderSuggestionsCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/chrome/!svn/ver/170767/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ChromeBrowserProviderSuggestionsCursor.java
+END
+ChromeWebContentsDelegateAndroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/chrome/!svn/ver/188492/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ChromeWebContentsDelegateAndroid.java
+END
+DevToolsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/164680/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/DevToolsServer.java
+END
+BookmarkUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/184863/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/BookmarkUtils.java
+END
+ChromeBrowserProviderClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/192158/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ChromeBrowserProviderClient.java
+END
+ChromeBrowserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/192312/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ChromeBrowserProvider.java
+END
+FindNotificationDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/154893/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/FindNotificationDetails.java
+END
+ChromeHttpAuthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/150245/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/ChromeHttpAuthHandler.java
+END

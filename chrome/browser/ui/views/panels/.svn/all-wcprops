@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/192125/trunk/src/chrome/browser/ui/views/panels
+END
+panel_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/188178/trunk/src/chrome/browser/ui/views/panels/panel_view.h
+END
+panel_view_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/191516/trunk/src/chrome/browser/ui/views/panels/panel_view_browsertest.cc
+END
+panel_stack_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/188008/trunk/src/chrome/browser/ui/views/panels/panel_stack_view.cc
+END
+panel_stack_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/188008/trunk/src/chrome/browser/ui/views/panels/panel_stack_view.h
+END
+panel_frame_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/192125/trunk/src/chrome/browser/ui/views/panels/panel_frame_view.cc
+END
+panel_frame_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/185626/trunk/src/chrome/browser/ui/views/panels/panel_frame_view.h
+END
+taskbar_window_thumbnailer_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/177811/trunk/src/chrome/browser/ui/views/panels/taskbar_window_thumbnailer_win.cc
+END
+taskbar_window_thumbnailer_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/177811/trunk/src/chrome/browser/ui/views/panels/taskbar_window_thumbnailer_win.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/158964/trunk/src/chrome/browser/ui/views/panels/OWNERS
+END
+panel_view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/191516/trunk/src/chrome/browser/ui/views/panels/panel_view.cc
+END

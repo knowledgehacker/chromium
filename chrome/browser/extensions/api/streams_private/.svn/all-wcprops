@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193232/trunk/src/chrome/browser/extensions/api/streams_private
+END
+streams_private_manifest_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/187536/trunk/src/chrome/browser/extensions/api/streams_private/streams_private_manifest_unittest.cc
+END
+streams_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193232/trunk/src/chrome/browser/extensions/api/streams_private/streams_private_api.cc
+END
+streams_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/193232/trunk/src/chrome/browser/extensions/api/streams_private/streams_private_apitest.cc
+END
+streams_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193232/trunk/src/chrome/browser/extensions/api/streams_private/streams_private_api.h
+END

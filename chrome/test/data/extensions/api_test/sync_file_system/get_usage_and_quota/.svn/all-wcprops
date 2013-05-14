@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/181462/trunk/src/chrome/test/data/extensions/api_test/sync_file_system/get_usage_and_quota
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/chrome/!svn/ver/181462/trunk/src/chrome/test/data/extensions/api_test/sync_file_system/get_usage_and_quota/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/167392/trunk/src/chrome/test/data/extensions/api_test/sync_file_system/get_usage_and_quota/manifest.json
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/193532/trunk/src/chrome/common/extensions/features
+END
+feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/191133/trunk/src/chrome/common/extensions/features/feature.cc
+END
+feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/191984/trunk/src/chrome/common/extensions/features/feature.h
+END
+base_feature_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193532/trunk/src/chrome/common/extensions/features/base_feature_provider_unittest.cc
+END
+base_feature_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193532/trunk/src/chrome/common/extensions/features/base_feature_provider.cc
+END
+base_feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193532/trunk/src/chrome/common/extensions/features/base_feature_provider.h
+END
+permission_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/permission_feature.cc
+END
+simple_feature_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/simple_feature_unittest.cc
+END
+simple_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/simple_feature.cc
+END
+permission_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/191133/trunk/src/chrome/common/extensions/features/permission_feature.h
+END
+simple_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/191984/trunk/src/chrome/common/extensions/features/simple_feature.h
+END
+feature_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193532/trunk/src/chrome/common/extensions/features/feature_provider.h
+END
+manifest_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/manifest_feature.cc
+END
+complex_feature_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/185661/trunk/src/chrome/common/extensions/features/complex_feature_unittest.cc
+END
+complex_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/complex_feature.cc
+END
+manifest_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/191133/trunk/src/chrome/common/extensions/features/manifest_feature.h
+END
+api_feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/193040/trunk/src/chrome/common/extensions/features/api_feature.cc
+END
+complex_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/191984/trunk/src/chrome/common/extensions/features/complex_feature.h
+END
+api_feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/191984/trunk/src/chrome/common/extensions/features/api_feature.h
+END

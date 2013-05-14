@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/chrome/!svn/ver/193040/trunk/src/chrome/common/json_schema
+END
+json_schema_validator_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/json_schema_validator_unittest.cc
+END
+json_schema_validator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193040/trunk/src/chrome/common/json_schema/json_schema_validator.cc
+END
+json_schema_validator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/json_schema_validator.h
+END
+json_schema_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/json_schema_constants.cc
+END
+json_schema_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/json_schema_constants.h
+END
+json_schema_validator_unittest_base.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193040/trunk/src/chrome/common/json_schema/json_schema_validator_unittest_base.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/OWNERS
+END
+json_schema_validator_unittest_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/188940/trunk/src/chrome/common/json_schema/json_schema_validator_unittest_base.h
+END

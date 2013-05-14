@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/193253/trunk/src/chrome/test/automation
+END
+proxy_launcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/193253/trunk/src/chrome/test/automation/proxy_launcher.cc
+END
+proxy_launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/181663/trunk/src/chrome/test/automation/proxy_launcher.h
+END
+automation_json_requests.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/184344/trunk/src/chrome/test/automation/automation_json_requests.cc
+END
+automation_json_requests.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/184344/trunk/src/chrome/test/automation/automation_json_requests.h
+END
+automation_handle_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/72106/trunk/src/chrome/test/automation/automation_handle_tracker.cc
+END
+tab_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/185328/trunk/src/chrome/test/automation/tab_proxy.cc
+END
+value_conversion_traits.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/182672/trunk/src/chrome/test/automation/value_conversion_traits.cc
+END
+automation_handle_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/146163/trunk/src/chrome/test/automation/automation_handle_tracker.h
+END
+window_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/176470/trunk/src/chrome/test/automation/window_proxy.cc
+END
+value_conversion_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/146163/trunk/src/chrome/test/automation/value_conversion_traits.h
+END
+tab_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/191450/trunk/src/chrome/test/automation/tab_proxy.h
+END
+window_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/176470/trunk/src/chrome/test/automation/window_proxy.h
+END
+value_conversion_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/146163/trunk/src/chrome/test/automation/value_conversion_util.h
+END
+automation_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/185328/trunk/src/chrome/test/automation/automation_proxy.cc
+END
+automation_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/185328/trunk/src/chrome/test/automation/automation_proxy.h
+END
+browser_proxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/176470/trunk/src/chrome/test/automation/browser_proxy.cc
+END
+browser_proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/176470/trunk/src/chrome/test/automation/browser_proxy.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/148406/trunk/src/chrome/test/automation/OWNERS
+END

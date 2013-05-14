@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/189124/trunk/src/chrome/test/data/extensions/api_test/crazy_extension
+END
+background.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/189124/trunk/src/chrome/test/data/extensions/api_test/crazy_extension/background.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/187995/trunk/src/chrome/test/data/extensions/api_test/crazy_extension/manifest.json
+END

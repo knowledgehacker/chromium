@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings
+END
+content_setting_image_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/content_settings/content_setting_image_model.h
+END
+content_setting_changed_infobar_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings/content_setting_changed_infobar_delegate.h
+END
+content_setting_media_menu_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/187769/trunk/src/chrome/browser/ui/content_settings/content_setting_media_menu_model.h
+END
+content_setting_bubble_model_delegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/163080/trunk/src/chrome/browser/ui/content_settings/content_setting_bubble_model_delegate.h
+END
+content_setting_bubble_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings/content_setting_bubble_model_unittest.cc
+END
+content_setting_bubble_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings/content_setting_bubble_model.cc
+END
+content_setting_bubble_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/183597/trunk/src/chrome/browser/ui/content_settings/content_setting_bubble_model.h
+END
+content_setting_image_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/168881/trunk/src/chrome/browser/ui/content_settings/content_setting_image_model_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/130877/trunk/src/chrome/browser/ui/content_settings/OWNERS
+END
+content_setting_changed_infobar_delegate_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings/content_setting_changed_infobar_delegate_unittest.cc
+END
+content_setting_image_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/183966/trunk/src/chrome/browser/ui/content_settings/content_setting_image_model.cc
+END
+content_setting_changed_infobar_delegate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/189138/trunk/src/chrome/browser/ui/content_settings/content_setting_changed_infobar_delegate.cc
+END
+content_setting_media_menu_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/187769/trunk/src/chrome/browser/ui/content_settings/content_setting_media_menu_model.cc
+END

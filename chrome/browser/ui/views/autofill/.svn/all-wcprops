@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/views/autofill
+END
+autofill_dialog_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/views/autofill/autofill_dialog_views.cc
+END
+autofill_popup_view_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193540/trunk/src/chrome/browser/ui/views/autofill/autofill_popup_view_views.h
+END
+autofill_dialog_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/194087/trunk/src/chrome/browser/ui/views/autofill/autofill_dialog_views.h
+END
+autocheckout_bubble_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193312/trunk/src/chrome/browser/ui/views/autofill/autocheckout_bubble_views.cc
+END
+autocheckout_bubble_views.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193185/trunk/src/chrome/browser/ui/views/autofill/autocheckout_bubble_views.h
+END
+autofill_popup_view_views.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193812/trunk/src/chrome/browser/ui/views/autofill/autofill_popup_view_views.cc
+END

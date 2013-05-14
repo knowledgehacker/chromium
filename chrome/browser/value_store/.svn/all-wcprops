@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/chrome/!svn/ver/193888/trunk/src/chrome/browser/value_store
+END
+value_store_change_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/155893/trunk/src/chrome/browser/value_store/value_store_change_unittest.cc
+END
+value_store_change.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/173218/trunk/src/chrome/browser/value_store/value_store_change.cc
+END
+value_store_change.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/147218/trunk/src/chrome/browser/value_store/value_store_change.h
+END
+testing_value_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/value_store/testing_value_store_unittest.cc
+END
+leveldb_value_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/value_store/leveldb_value_store_unittest.cc
+END
+testing_value_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193888/trunk/src/chrome/browser/value_store/testing_value_store.cc
+END
+leveldb_value_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193888/trunk/src/chrome/browser/value_store/leveldb_value_store.cc
+END
+value_store_frontend_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/value_store/value_store_frontend_unittest.cc
+END
+value_store_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/159592/trunk/src/chrome/browser/value_store/value_store_unittest.cc
+END
+value_store_frontend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/value_store/value_store_frontend.cc
+END
+testing_value_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/166551/trunk/src/chrome/browser/value_store/testing_value_store.h
+END
+leveldb_value_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/value_store/leveldb_value_store.h
+END
+value_store.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/140805/trunk/src/chrome/browser/value_store/value_store.cc
+END
+value_store_frontend.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/180245/trunk/src/chrome/browser/value_store/value_store_frontend.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/chrome/!svn/ver/152827/trunk/src/chrome/browser/value_store/OWNERS
+END
+value_store_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/value_store/value_store_unittest.h
+END
+value_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/173218/trunk/src/chrome/browser/value_store/value_store.h
+END

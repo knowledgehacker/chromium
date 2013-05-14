@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/cloud_print_private
+END
+cloud_print_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/188864/trunk/src/chrome/browser/extensions/api/cloud_print_private/cloud_print_private_api.cc
+END
+cloud_print_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/189485/trunk/src/chrome/browser/extensions/api/cloud_print_private/cloud_print_private_apitest.cc
+END
+cloud_print_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/188677/trunk/src/chrome/browser/extensions/api/cloud_print_private/cloud_print_private_api.h
+END

@@ -1,0 +1,162 @@
+# Copyright (c) 2012 The Chromium Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+import logging
+import os
+from StringIO import StringIO
+
+from appengine_wrappers import webapp
+from appengine_wrappers import memcache
+from appengine_wrappers import urlfetch
+from branch_utility import BranchUtility
+from server_instance import ServerInstance
+import svn_constants
+import time
+
+# The default channel to serve docs for if no channel is specified.
+_DEFAULT_CHANNEL = 'stable'
+
+class Handler(webapp.RequestHandler):
+  def __init__(self, request, response):
+    super(Handler, self).__init__(request, response)
+
+  def _HandleGet(self, path):
+    channel_name, real_path = BranchUtility.SplitChannelNameFromPath(path)
+
+    if channel_name == _DEFAULT_CHANNEL:
+      self.redirect('/%s' % real_path)
+      return
+
+    if channel_name is None:
+      channel_name = _DEFAULT_CHANNEL
+
+    # TODO(kalman): Check if |path| is a directory and serve path/index.html
+    # rather than special-casing apps/extensions.
+    if real_path.strip('/') == 'apps':
+      real_path = 'apps/index.html'
+    if real_path.strip('/') == 'extensions':
+      real_path = 'extensions/index.html'
+
+    server_instance = ServerInstance.GetOrCreate(channel_name)
+
+    canonical_path = server_instance.path_canonicalizer.Canonicalize(real_path)
+    if real_path != canonical_path:
+      self.redirect(canonical_path)
+      return
+
+    ServerInstance.GetOrCreate(channel_name).Get(real_path,
+                                                 self.request,
+                                                 self.response)
+
+  def _HandleCron(self, path):
+    # Cron strategy:
+    #
+    # Find all public template files and static files, and render them. Most of
+    # the time these won't have changed since the last cron run, so it's a
+    # little wasteful, but hopefully rendering is really fast (if it isn't we
+    # have a problem).
+    class MockResponse(object):
+      def __init__(self):
+        self.status = 200
+        self.out = StringIO()
+        self.headers = {}
+      def set_status(self, status):
+        self.status = status
+      def clear(self, *args):
+        pass
+
+    class MockRequest(object):
+      def __init__(self, path):
+        self.headers = {}
+        self.path = path
+        self.url = '//localhost/%s' % path
+
+    channel = path.split('/')[-1]
+    logging.info('cron/%s: starting' % channel)
+
+    server_instance = ServerInstance.GetOrCreate(channel)
+
+    def run_cron_for_dir(d):
+      error = None
+      start_time = time.time()
+      files = [f for f in server_instance.content_cache.GetFromFileListing(d)
+               if not f.endswith('/')]
+      for f in files:
+        try:
+          server_instance.Get(f, MockRequest(f), MockResponse())
+        except error:
+          logging.error('cron/%s: error rendering %s/%s: %s' % (
+              channel, d, f, error))
+      logging.info('cron/%s: rendering %s files in %s took %s seconds' % (
+          channel, len(files), d, time.time() - start_time))
+      return error
+
+    # Don't use "or" since we want to evaluate everything no matter what.
+    was_error = any((run_cron_for_dir(svn_constants.PUBLIC_TEMPLATE_PATH),
+                     run_cron_for_dir(svn_constants.STATIC_PATH)))
+
+    if was_error:
+      self.response.status = 500
+      self.response.out.write('Failure')
+    else:
+      self.response.status = 200
+      self.response.out.write('Success')
+
+    logging.info('cron/%s: finished' % channel)
+
+  def _RedirectSpecialCases(self, path):
+    google_dev_url = 'http://developer.google.com/chrome'
+    if path == '/' or path == '/index.html':
+      self.redirect(google_dev_url)
+      return True
+
+    if path == '/apps.html':
+      self.redirect('/apps/about_apps.html')
+      return True
+
+    return False
+
+  def _RedirectFromCodeDotGoogleDotCom(self, path):
+    if (not self.request.url.startswith(('http://code.google.com',
+                                         'https://code.google.com'))):
+      return False
+
+    new_url = 'http://developer.chrome.com/'
+
+    # switch to https if necessary
+    if (self.request.url.startswith('https')):
+      new_url = new_url.replace('http', 'https', 1)
+
+    path = path.split('/')
+    if len(path) > 0 and path[0] == 'chrome':
+      path.pop(0)
+    for channel in BranchUtility.GetAllBranchNames():
+      if channel in path:
+        position = path.index(channel)
+        path.pop(position)
+        path.insert(0, channel)
+    new_url += '/'.join(path)
+    self.redirect(new_url)
+    return True
+
+  def get(self):
+    path = self.request.path
+    if self._RedirectSpecialCases(path):
+      return
+
+    if path.startswith('/cron'):
+      self._HandleCron(path)
+      return
+
+    # Redirect paths like "directory" to "directory/". This is so relative
+    # file paths will know to treat this as a directory.
+    if os.path.splitext(path)[1] == '' and path[-1] != '/':
+      self.redirect(path + '/')
+      return
+
+    path = path.strip('/')
+    if self._RedirectFromCodeDotGoogleDotCom(path):
+      return
+
+    self._HandleGet(path)

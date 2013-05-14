@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/193603/trunk/src/chrome/browser/ui/webui/signin
+END
+login_ui_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/ui/webui/signin/login_ui_service_factory.cc
+END
+profile_signin_confirmation_ui.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/188169/trunk/src/chrome/browser/ui/webui/signin/profile_signin_confirmation_ui.cc
+END
+login_ui_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/webui/signin/login_ui_service_factory.h
+END
+profile_signin_confirmation_dialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193603/trunk/src/chrome/browser/ui/webui/signin/profile_signin_confirmation_dialog.cc
+END
+profile_signin_confirmation_ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/182702/trunk/src/chrome/browser/ui/webui/signin/profile_signin_confirmation_ui.h
+END
+profile_signin_confirmation_dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193603/trunk/src/chrome/browser/ui/webui/signin/profile_signin_confirmation_dialog.h
+END
+login_ui_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/164853/trunk/src/chrome/browser/ui/webui/signin/login_ui_service_unittest.cc
+END
+login_ui_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/192471/trunk/src/chrome/browser/ui/webui/signin/login_ui_service.cc
+END
+login_ui_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/173605/trunk/src/chrome/browser/ui/webui/signin/login_ui_service.h
+END

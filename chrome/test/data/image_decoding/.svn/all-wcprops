@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/178985/trunk/src/chrome/test/data/image_decoding
+END
+droids.webp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/178985/trunk/src/chrome/test/data/image_decoding/droids.webp
+END
+image_decoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/169986/trunk/src/chrome/test/data/image_decoding/image_decoding.html
+END
+droids.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/169925/trunk/src/chrome/test/data/image_decoding/droids.jpg
+END
+droids.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/169925/trunk/src/chrome/test/data/image_decoding/droids.png
+END
+droids.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/169925/trunk/src/chrome/test/data/image_decoding/droids.gif
+END
+image_decoding.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/172145/trunk/src/chrome/test/data/image_decoding/image_decoding.js
+END

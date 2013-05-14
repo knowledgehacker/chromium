@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/187221/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/187221/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/main.js
+END
+guest.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/187221/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/guest.js
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/186068/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/main.html
+END
+guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/186068/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/guest.html
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/186068/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/186068/trunk/src/chrome/test/data/extensions/platform_apps/web_view/pointer_lock/manifest.json
+END

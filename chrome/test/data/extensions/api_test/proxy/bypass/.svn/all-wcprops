@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/163287/trunk/src/chrome/test/data/extensions/api_test/proxy/bypass
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/86745/trunk/src/chrome/test/data/extensions/api_test/proxy/bypass/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/163287/trunk/src/chrome/test/data/extensions/api_test/proxy/bypass/manifest.json
+END

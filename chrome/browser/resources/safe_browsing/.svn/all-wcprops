@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/189471/trunk/src/chrome/browser/resources/safe_browsing
+END
+malware_block_v2.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/173340/trunk/src/chrome/browser/resources/safe_browsing/malware_block_v2.css
+END
+malware_block_v2.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/177425/trunk/src/chrome/browser/resources/safe_browsing/malware_block_v2.js
+END
+malware_block_v2.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/177425/trunk/src/chrome/browser/resources/safe_browsing/malware_block_v2.html
+END

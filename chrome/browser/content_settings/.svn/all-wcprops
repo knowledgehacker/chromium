@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings
+END
+content_settings_custom_extension_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/152606/trunk/src/chrome/browser/content_settings/content_settings_custom_extension_provider.h
+END
+content_settings_internal_extension_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_internal_extension_provider.cc
+END
+content_settings_origin_identifier_value_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/125666/trunk/src/chrome/browser/content_settings/content_settings_origin_identifier_value_map.h
+END
+content_settings_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/144086/trunk/src/chrome/browser/content_settings/content_settings_observer.h
+END
+content_settings_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_provider.h
+END
+content_settings_default_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/182485/trunk/src/chrome/browser/content_settings/content_settings_default_provider_unittest.cc
+END
+content_settings_default_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/content_settings/content_settings_default_provider.cc
+END
+content_settings_utils_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_utils_unittest.cc
+END
+content_settings_observable_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/120623/trunk/src/chrome/browser/content_settings/content_settings_observable_provider.h
+END
+content_settings_utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_utils.cc
+END
+content_settings_mock_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/120224/trunk/src/chrome/browser/content_settings/content_settings_mock_observer.h
+END
+content_settings_mock_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/113610/trunk/src/chrome/browser/content_settings/content_settings_mock_provider.cc
+END
+content_settings_mock_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/content_settings/content_settings_mock_provider.h
+END
+content_settings_rule_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/181164/trunk/src/chrome/browser/content_settings/content_settings_rule_unittest.cc
+END
+mock_settings_observer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/content_settings/mock_settings_observer.h
+END
+content_settings_pref_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/content_settings/content_settings_pref_provider.h
+END
+content_settings_policy_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_policy_provider.cc
+END
+tab_specific_content_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/191844/trunk/src/chrome/browser/content_settings/tab_specific_content_settings_unittest.cc
+END
+content_settings_policy_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/content_settings/content_settings_policy_provider.h
+END
+host_content_settings_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/content_settings/host_content_settings_map.h
+END
+cookie_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/cookie_settings.cc
+END
+content_settings_custom_extension_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/152606/trunk/src/chrome/browser/content_settings/content_settings_custom_extension_provider.cc
+END
+local_shared_objects_container.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/172770/trunk/src/chrome/browser/content_settings/local_shared_objects_container.cc
+END
+cookie_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/content_settings/cookie_settings.h
+END
+content_settings_origin_identifier_value_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_origin_identifier_value_map_unittest.cc
+END
+content_settings_origin_identifier_value_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/125666/trunk/src/chrome/browser/content_settings/content_settings_origin_identifier_value_map.cc
+END
+content_settings_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_browsertest.cc
+END
+local_shared_objects_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/149439/trunk/src/chrome/browser/content_settings/local_shared_objects_container.h
+END
+content_settings_internal_extension_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/152606/trunk/src/chrome/browser/content_settings/content_settings_internal_extension_provider.h
+END
+content_settings_details.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/89399/trunk/src/chrome/browser/content_settings/content_settings_details.cc
+END
+content_settings_details.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/content_settings/content_settings_details.h
+END
+content_settings_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_provider_unittest.cc
+END
+content_settings_observable_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/120623/trunk/src/chrome/browser/content_settings/content_settings_observable_provider.cc
+END
+content_settings_default_provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/content_settings/content_settings_default_provider.h
+END
+content_settings_mock_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/92505/trunk/src/chrome/browser/content_settings/content_settings_mock_observer.cc
+END
+content_settings_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/119773/trunk/src/chrome/browser/content_settings/content_settings_utils.h
+END
+content_settings_pref_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_pref_provider_unittest.cc
+END
+mock_settings_observer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/mock_settings_observer.cc
+END
+content_settings_pref_provider.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_pref_provider.cc
+END
+content_settings_rule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/105781/trunk/src/chrome/browser/content_settings/content_settings_rule.cc
+END
+content_settings_policy_provider_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/content_settings_policy_provider_unittest.cc
+END
+content_settings_rule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/content_settings/content_settings_rule.h
+END
+host_content_settings_map_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/host_content_settings_map_unittest.cc
+END
+host_content_settings_map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/content_settings/host_content_settings_map.cc
+END
+tab_specific_content_settings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/191844/trunk/src/chrome/browser/content_settings/tab_specific_content_settings.cc
+END
+tab_specific_content_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/191228/trunk/src/chrome/browser/content_settings/tab_specific_content_settings.h
+END
+cookie_settings_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/181707/trunk/src/chrome/browser/content_settings/cookie_settings_unittest.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/79582/trunk/src/chrome/browser/content_settings/OWNERS
+END

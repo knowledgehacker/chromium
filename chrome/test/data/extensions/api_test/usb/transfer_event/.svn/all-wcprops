@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/173433/trunk/src/chrome/test/data/extensions/api_test/usb/transfer_event
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/173433/trunk/src/chrome/test/data/extensions/api_test/usb/transfer_event/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/164519/trunk/src/chrome/test/data/extensions/api_test/usb/transfer_event/manifest.json
+END

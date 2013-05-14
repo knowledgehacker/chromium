@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/193729/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/sync
+END
+GoogleServiceAuthError.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/186798/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/sync/GoogleServiceAuthError.java
+END
+ProfileSyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/chrome/!svn/ver/193729/trunk/src/chrome/android/java/src/org/chromium/chrome/browser/sync/ProfileSyncService.java
+END

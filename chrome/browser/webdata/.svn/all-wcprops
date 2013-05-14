@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata
+END
+keyword_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/193432/trunk/src/chrome/browser/webdata/keyword_table.cc
+END
+keyword_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/keyword_table.h
+END
+autofill_profile_syncable_service_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service_unittest.cc
+END
+autofill_profile_syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service.cc
+END
+autofill_profile_syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/autofill_profile_syncable_service.h
+END
+autocomplete_syncable_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/autocomplete_syncable_service.cc
+END
+logins_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chrome/!svn/ver/193432/trunk/src/chrome/browser/webdata/logins_table.cc
+END
+autocomplete_syncable_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/autocomplete_syncable_service.h
+END
+web_data_service_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_data_service_win.cc
+END
+logins_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/logins_table.h
+END
+token_service_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/webdata/token_service_table_unittest.cc
+END
+web_apps_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_apps_table_unittest.cc
+END
+web_apps_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/193432/trunk/src/chrome/browser/webdata/web_apps_table.cc
+END
+token_service_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/193432/trunk/src/chrome/browser/webdata/token_service_table.cc
+END
+DEPS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/chrome/!svn/ver/190317/trunk/src/chrome/browser/webdata/DEPS
+END
+web_apps_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_apps_table.h
+END
+token_service_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/token_service_table.h
+END
+web_data_service_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/web_data_service_factory.cc
+END
+logins_table_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/184355/trunk/src/chrome/browser/webdata/logins_table_win.cc
+END
+web_data_service_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/webdata/web_data_service_factory.h
+END
+web_data_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_data_service.cc
+END
+web_data_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_data_service.h
+END
+web_intents_table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/193432/trunk/src/chrome/browser/webdata/web_intents_table.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/chrome/!svn/ver/169844/trunk/src/chrome/browser/webdata/OWNERS
+END
+web_intents_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/web_intents_table.h
+END
+keyword_table_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/192161/trunk/src/chrome/browser/webdata/keyword_table_unittest.cc
+END

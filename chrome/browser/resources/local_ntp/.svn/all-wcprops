@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/chrome/!svn/ver/194242/trunk/src/chrome/browser/resources/local_ntp
+END
+local_ntp.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/191533/trunk/src/chrome/browser/resources/local_ntp/local_ntp.css
+END
+local_ntp.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/191120/trunk/src/chrome/browser/resources/local_ntp/local_ntp.js
+END
+local_ntp.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/191986/trunk/src/chrome/browser/resources/local_ntp/local_ntp.html
+END

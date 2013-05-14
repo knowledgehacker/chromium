@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/extensions/api/preference
+END
+preference_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/190297/trunk/src/chrome/browser/extensions/api/preference/preference_helpers.cc
+END
+preference_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/157600/trunk/src/chrome/browser/extensions/api/preference/preference_helpers.h
+END
+preference_api_constants.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/157600/trunk/src/chrome/browser/extensions/api/preference/preference_api_constants.cc
+END
+preference_api_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/157600/trunk/src/chrome/browser/extensions/api/preference/preference_api_constants.h
+END
+preference_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/extensions/api/preference/preference_api.cc
+END
+preference_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/extensions/api/preference/preference_apitest.cc
+END
+preference_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/189513/trunk/src/chrome/browser/extensions/api/preference/preference_api.h
+END

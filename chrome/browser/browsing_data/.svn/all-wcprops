@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data
+END
+mock_browsing_data_local_storage_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_local_storage_helper.h
+END
+mock_browsing_data_indexed_db_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/mock_browsing_data_indexed_db_helper.cc
+END
+mock_browsing_data_file_system_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/mock_browsing_data_file_system_helper.h
+END
+browsing_data_appcache_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_appcache_helper_unittest.cc
+END
+mock_browsing_data_quota_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/mock_browsing_data_quota_helper.h
+END
+browsing_data_appcache_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/153642/trunk/src/chrome/browser/browsing_data/browsing_data_appcache_helper.cc
+END
+browsing_data_flash_lso_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/149439/trunk/src/chrome/browser/browsing_data/browsing_data_flash_lso_helper.cc
+END
+browsing_data_server_bound_cert_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/188119/trunk/src/chrome/browser/browsing_data/browsing_data_server_bound_cert_helper.h
+END
+browsing_data_local_storage_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_local_storage_helper_unittest.cc
+END
+browsing_data_remover_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/browsing_data/browsing_data_remover_unittest.cc
+END
+browsing_data_remover.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/193982/trunk/src/chrome/browser/browsing_data/browsing_data_remover.cc
+END
+browsing_data_local_storage_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/browsing_data/browsing_data_local_storage_helper_browsertest.cc
+END
+browsing_data_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_helper.h
+END
+browsing_data_file_system_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/browsing_data/browsing_data_file_system_helper_unittest.cc
+END
+mock_browsing_data_server_bound_cert_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_server_bound_cert_helper.cc
+END
+mock_browsing_data_cookie_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_cookie_helper.h
+END
+browsing_data_indexed_db_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_indexed_db_helper_unittest.cc
+END
+local_data_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/local_data_container.h
+END
+mock_browsing_data_quota_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/mock_browsing_data_quota_helper.cc
+END
+browsing_data_database_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/browsing_data/browsing_data_database_helper_unittest.cc
+END
+browsing_data_database_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/181638/trunk/src/chrome/browser/browsing_data/browsing_data_database_helper.cc
+END
+browsing_data_appcache_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/153642/trunk/src/chrome/browser/browsing_data/browsing_data_appcache_helper.h
+END
+browsing_data_cookie_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/168243/trunk/src/chrome/browser/browsing_data/browsing_data_cookie_helper.cc
+END
+browsing_data_server_bound_cert_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/188119/trunk/src/chrome/browser/browsing_data/browsing_data_server_bound_cert_helper.cc
+END
+browsing_data_cookie_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/166191/trunk/src/chrome/browser/browsing_data/browsing_data_cookie_helper.h
+END
+browsing_data_quota_helper_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/175086/trunk/src/chrome/browser/browsing_data/browsing_data_quota_helper_impl.h
+END
+browsing_data_local_storage_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/browsing_data/browsing_data_local_storage_helper.h
+END
+browsing_data_remover.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/192511/trunk/src/chrome/browser/browsing_data/browsing_data_remover.h
+END
+mock_browsing_data_cookie_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_cookie_helper.cc
+END
+browsing_data_file_system_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_file_system_helper.cc
+END
+mock_browsing_data_flash_lso_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/149439/trunk/src/chrome/browser/browsing_data/mock_browsing_data_flash_lso_helper.h
+END
+mock_browsing_data_local_storage_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_local_storage_helper.cc
+END
+browsing_data_indexed_db_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/browsing_data_indexed_db_helper_browsertest.cc
+END
+cookies_tree_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/cookies_tree_model.cc
+END
+browsing_data_quota_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_quota_helper.cc
+END
+browsing_data_quota_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_quota_helper.h
+END
+cookies_tree_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/cookies_tree_model.h
+END
+browsing_data_database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_database_helper.h
+END
+browsing_data_cookie_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/browsing_data/browsing_data_cookie_helper_unittest.cc
+END
+browsing_data_quota_helper_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_quota_helper_impl.cc
+END
+mock_browsing_data_appcache_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_appcache_helper.cc
+END
+browsing_data_local_storage_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/166196/trunk/src/chrome/browser/browsing_data/browsing_data_local_storage_helper.cc
+END
+mock_browsing_data_appcache_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_appcache_helper.h
+END
+browsing_data_remover_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/browsing_data/browsing_data_remover_browsertest.cc
+END
+local_data_container.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/172770/trunk/src/chrome/browser/browsing_data/local_data_container.cc
+END
+mock_browsing_data_server_bound_cert_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_server_bound_cert_helper.h
+END
+cookies_tree_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/browsing_data/cookies_tree_model_unittest.cc
+END
+browsing_data_quota_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_quota_helper_unittest.cc
+END
+mock_browsing_data_file_system_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/mock_browsing_data_file_system_helper.cc
+END
+mock_browsing_data_indexed_db_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/mock_browsing_data_indexed_db_helper.h
+END
+browsing_data_database_helper_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/browsing_data/browsing_data_database_helper_browsertest.cc
+END
+browsing_data_server_bound_cert_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/chrome/!svn/ver/188119/trunk/src/chrome/browser/browsing_data/browsing_data_server_bound_cert_helper_unittest.cc
+END
+browsing_data_flash_lso_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/149439/trunk/src/chrome/browser/browsing_data/browsing_data_flash_lso_helper.h
+END
+mock_browsing_data_database_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_database_helper.cc
+END
+mock_browsing_data_database_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/mock_browsing_data_database_helper.h
+END
+browsing_data_helper_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/176347/trunk/src/chrome/browser/browsing_data/browsing_data_helper_unittest.cc
+END
+browsing_data_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/176347/trunk/src/chrome/browser/browsing_data/browsing_data_helper.cc
+END
+mock_browsing_data_flash_lso_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/149439/trunk/src/chrome/browser/browsing_data/mock_browsing_data_flash_lso_helper.cc
+END
+browsing_data_indexed_db_helper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/browsing_data_indexed_db_helper.cc
+END
+browsing_data_helper_browsertest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/browsing_data_helper_browsertest.h
+END
+browsing_data_file_system_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/193738/trunk/src/chrome/browser/browsing_data/browsing_data_file_system_helper.h
+END
+browsing_data_indexed_db_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/194063/trunk/src/chrome/browser/browsing_data/browsing_data_indexed_db_helper.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/147504/trunk/src/chrome/browser/browsing_data/OWNERS
+END

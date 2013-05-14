@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/fullscreen
+END
+fullscreen_controller_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/188840/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_test.cc
+END
+fullscreen_controller_state_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/192180/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_state_unittest.cc
+END
+fullscreen_controller_state_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/193040/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_state_test.cc
+END
+fullscreen_controller_state_interactive_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/180855/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_state_interactive_browsertest.cc
+END
+fullscreen_controller_interactive_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/187759/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_interactive_browsertest.cc
+END
+fullscreen_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/192180/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller.cc
+END
+fullscreen_exit_bubble.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/175045/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble.cc
+END
+fullscreen_controller_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/167011/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_test.h
+END
+fullscreen_controller_state_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/180855/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_state_test.h
+END
+fullscreen_exit_bubble_type.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/167454/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble_type.cc
+END
+fullscreen_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/181213/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller.h
+END
+fullscreen_exit_bubble.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/174408/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble.h
+END
+fullscreen_controller_browsertest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/174714/trunk/src/chrome/browser/ui/fullscreen/fullscreen_controller_browsertest.cc
+END
+fullscreen_exit_bubble_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/ui/fullscreen/fullscreen_exit_bubble_type.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/172459/trunk/src/chrome/browser/ui/fullscreen/OWNERS
+END

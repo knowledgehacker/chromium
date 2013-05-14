@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/193760/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test
+END
+ProviderBookmarksUriTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/chrome/!svn/ver/189450/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/ProviderBookmarksUriTest.java
+END
+ProviderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/189450/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/ProviderTestBase.java
+END
+ProviderBookmarkNodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/chrome/!svn/ver/189450/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/ProviderBookmarkNodeTest.java
+END
+ProviderSearchesUriTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/chrome/!svn/ver/189450/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/ProviderSearchesUriTest.java
+END
+DummyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/182512/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/DummyTest.java
+END
+ModalDialogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/chrome/!svn/ver/191402/trunk/src/chrome/android/javatests/src/org/chromium/chrome/browser/test/ModalDialogTest.java
+END

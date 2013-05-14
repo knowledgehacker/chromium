@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/153999/trunk/src/chrome/test/data/extensions/api_test/window_open/panel
+END
+panel.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/153999/trunk/src/chrome/test/data/extensions/api_test/window_open/panel/panel.html
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/112663/trunk/src/chrome/test/data/extensions/api_test/window_open/panel/test.html
+END
+panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/153999/trunk/src/chrome/test/data/extensions/api_test/window_open/panel/panel.js
+END
+test.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/153999/trunk/src/chrome/test/data/extensions/api_test/window_open/panel/test.js
+END
+manifest.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/116289/trunk/src/chrome/test/data/extensions/api_test/window_open/panel/manifest.json
+END

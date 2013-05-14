@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/193493/trunk/src/chrome/test/data/popup_blocker
+END
+popup-blocked-to-post-blank.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/59215/trunk/src/chrome/test/data/popup_blocker/popup-blocked-to-post-blank.html
+END
+popup-fake-click-on-anchor.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/chrome/!svn/ver/193493/trunk/src/chrome/test/data/popup_blocker/popup-fake-click-on-anchor.html
+END
+popup-on-unload.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/154602/trunk/src/chrome/test/data/popup_blocker/popup-on-unload.html
+END
+popup-many.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/chrome/!svn/ver/154602/trunk/src/chrome/test/data/popup_blocker/popup-many.html
+END
+popup-window-open.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/79203/trunk/src/chrome/test/data/popup_blocker/popup-window-open.html
+END

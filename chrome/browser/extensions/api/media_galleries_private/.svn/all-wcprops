@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/192448/trunk/src/chrome/browser/extensions/api/media_galleries_private
+END
+media_galleries_private_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/190556/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_private_api.h
+END
+gallery_watch_manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/chrome/!svn/ver/180844/trunk/src/chrome/browser/extensions/api/media_galleries_private/gallery_watch_manager.cc
+END
+gallery_watch_state_tracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/191042/trunk/src/chrome/browser/extensions/api/media_galleries_private/gallery_watch_state_tracker.cc
+END
+gallery_watch_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/185109/trunk/src/chrome/browser/extensions/api/media_galleries_private/gallery_watch_manager.h
+END
+media_galleries_private_event_router.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/chrome/!svn/ver/186353/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_private_event_router.cc
+END
+gallery_watch_state_tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/chrome/!svn/ver/185109/trunk/src/chrome/browser/extensions/api/media_galleries_private/gallery_watch_state_tracker.h
+END
+media_galleries_private_event_router.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/chrome/!svn/ver/186353/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_private_event_router.h
+END
+media_galleries_watch_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/185109/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_watch_apitest.cc
+END
+media_galleries_eject_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/chrome/!svn/ver/192448/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_eject_apitest.cc
+END
+media_galleries_private_api.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/chrome/!svn/ver/190556/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_private_api.cc
+END
+media_galleries_private_apitest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/chrome/!svn/ver/192448/trunk/src/chrome/browser/extensions/api/media_galleries_private/media_galleries_private_apitest.cc
+END

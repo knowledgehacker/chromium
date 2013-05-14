@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/chrome/!svn/ver/192969/trunk/src/chrome/browser/component_updater
+END
+component_unpacker.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/component_updater/component_unpacker.h
+END
+recovery_component_installer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/184344/trunk/src/chrome/browser/component_updater/recovery_component_installer.cc
+END
+flash_component_installer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/174741/trunk/src/chrome/browser/component_updater/flash_component_installer.h
+END
+recovery_component_installer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chrome/!svn/ver/183798/trunk/src/chrome/browser/component_updater/recovery_component_installer.h
+END
+swiftshader_component_installer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/191858/trunk/src/chrome/browser/component_updater/swiftshader_component_installer.cc
+END
+swiftshader_component_installer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/component_updater/swiftshader_component_installer.h
+END
+component_updater_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/191562/trunk/src/chrome/browser/component_updater/component_updater_service.cc
+END
+pepper_flash_component_installer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/chrome/!svn/ver/190051/trunk/src/chrome/browser/component_updater/pepper_flash_component_installer.cc
+END
+component_updater_configurator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/187266/trunk/src/chrome/browser/component_updater/component_updater_configurator.cc
+END
+component_updater_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/182399/trunk/src/chrome/browser/component_updater/component_updater_service.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/148406/trunk/src/chrome/browser/component_updater/OWNERS
+END
+component_unpacker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/192843/trunk/src/chrome/browser/component_updater/component_unpacker.cc
+END
+component_updater_configurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/146163/trunk/src/chrome/browser/component_updater/component_updater_configurator.h
+END

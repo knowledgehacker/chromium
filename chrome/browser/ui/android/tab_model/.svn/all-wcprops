@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/189526/trunk/src/chrome/browser/ui/android/tab_model
+END
+tab_model_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/chrome/!svn/ver/168930/trunk/src/chrome/browser/ui/android/tab_model/tab_model_list.cc
+END
+tab_model_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/148798/trunk/src/chrome/browser/ui/android/tab_model/tab_model_list.h
+END
+tab_model_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/171171/trunk/src/chrome/browser/ui/android/tab_model/tab_model_unittest.cc
+END
+tab_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/189526/trunk/src/chrome/browser/ui/android/tab_model/tab_model.cc
+END
+tab_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/188268/trunk/src/chrome/browser/ui/android/tab_model/tab_model.h
+END

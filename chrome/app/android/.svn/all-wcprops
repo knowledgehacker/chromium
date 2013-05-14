@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/chrome/!svn/ver/191402/trunk/src/chrome/app/android
+END
+chrome_main_delegate_android.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/191402/trunk/src/chrome/app/android/chrome_main_delegate_android.cc
+END
+chrome_main_delegate_android.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/172440/trunk/src/chrome/app/android/chrome_main_delegate_android.h
+END
+chrome_android_initializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/180398/trunk/src/chrome/app/android/chrome_android_initializer.cc
+END
+chrome_android_initializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/156458/trunk/src/chrome/app/android/chrome_android_initializer.h
+END
+chrome_jni_onload.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/chrome/!svn/ver/172440/trunk/src/chrome/app/android/chrome_jni_onload.cc
+END

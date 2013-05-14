@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/chrome/!svn/ver/193890/trunk/src/chrome/browser/resources/ntp_android
+END
+bookmarks.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/189431/trunk/src/chrome/browser/resources/ntp_android/bookmarks.css
+END
+mostvisited.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/152008/trunk/src/chrome/browser/resources/ntp_android/mostvisited.css
+END
+new_tab.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/177432/trunk/src/chrome/browser/resources/ntp_android/new_tab.html
+END
+opentabs.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/chrome/!svn/ver/193890/trunk/src/chrome/browser/resources/ntp_android/opentabs.css
+END
+incognito_tab.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/chrome/!svn/ver/152008/trunk/src/chrome/browser/resources/ntp_android/incognito_tab.css
+END
+ntp_android.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/154540/trunk/src/chrome/browser/resources/ntp_android/ntp_android.css
+END
+bookmarks_tablet.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/152008/trunk/src/chrome/browser/resources/ntp_android/bookmarks_tablet.css
+END
+mostvisited_tablet.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/191309/trunk/src/chrome/browser/resources/ntp_android/mostvisited_tablet.css
+END
+ntp_android.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/189431/trunk/src/chrome/browser/resources/ntp_android/ntp_android.js
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/chrome/!svn/ver/162160/trunk/src/chrome/browser/resources/ntp_android/OWNERS
+END
+opentabs_tablet.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/152008/trunk/src/chrome/browser/resources/ntp_android/opentabs_tablet.css
+END
+mockdata.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/155920/trunk/src/chrome/browser/resources/ntp_android/mockdata.js
+END

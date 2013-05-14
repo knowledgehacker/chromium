@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/chrome/!svn/ver/180994/trunk/src/chrome/test/data/webrtc/manual
+END
+peerconnection-iframe.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chrome/!svn/ver/165667/trunk/src/chrome/test/data/webrtc/manual/peerconnection-iframe.html
+END
+stylesheet.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/167152/trunk/src/chrome/test/data/webrtc/manual/stylesheet.css
+END
+constraints.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/chrome/!svn/ver/167152/trunk/src/chrome/test/data/webrtc/manual/constraints.js
+END
+peerconnection-help.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/175324/trunk/src/chrome/test/data/webrtc/manual/peerconnection-help.html
+END
+peerconnection-multi.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/179118/trunk/src/chrome/test/data/webrtc/manual/peerconnection-multi.html
+END
+peerconnection.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/chrome/!svn/ver/179935/trunk/src/chrome/test/data/webrtc/manual/peerconnection.js
+END
+constraints.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/chrome/!svn/ver/167152/trunk/src/chrome/test/data/webrtc/manual/constraints.html
+END
+peerconnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/chrome/!svn/ver/180994/trunk/src/chrome/test/data/webrtc/manual/peerconnection.html
+END

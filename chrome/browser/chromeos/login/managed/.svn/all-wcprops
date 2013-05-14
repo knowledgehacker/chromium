@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/chrome/!svn/ver/193645/trunk/src/chrome/browser/chromeos/login/managed
+END
+locally_managed_user_controller.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_controller.cc
+END
+locally_managed_user_creation_screen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/chrome/!svn/ver/193645/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_creation_screen.cc
+END
+locally_managed_user_controller.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_controller.h
+END
+locally_managed_user_creation_screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_creation_screen.h
+END
+cloud_connector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/186478/trunk/src/chrome/browser/chromeos/login/managed/cloud_connector.cc
+END
+cloud_connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/186478/trunk/src/chrome/browser/chromeos/login/managed/cloud_connector.h
+END
+locally_managed_user_creation_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/chrome/!svn/ver/191216/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_creation_flow.cc
+END
+managed_user_authenticator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/chromeos/login/managed/managed_user_authenticator.cc
+END
+locally_managed_user_creation_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/chrome/!svn/ver/191216/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_creation_flow.h
+END
+managed_user_authenticator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/chrome/!svn/ver/190097/trunk/src/chrome/browser/chromeos/login/managed/managed_user_authenticator.h
+END
+locally_managed_user_login_flow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/chrome/!svn/ver/193077/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_login_flow.cc
+END
+locally_managed_user_login_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/chrome/!svn/ver/191216/trunk/src/chrome/browser/chromeos/login/managed/locally_managed_user_login_flow.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/chrome/!svn/ver/191511/trunk/src/chrome/browser/ui/webui/ntp/android
+END
+promo_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/chrome/!svn/ver/181648/trunk/src/chrome/browser/ui/webui/ntp/android/promo_handler.h
+END
+new_tab_page_ready_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/chrome/!svn/ver/160894/trunk/src/chrome/browser/ui/webui/ntp/android/new_tab_page_ready_handler.cc
+END
+new_tab_page_ready_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chrome/!svn/ver/160894/trunk/src/chrome/browser/ui/webui/ntp/android/new_tab_page_ready_handler.h
+END
+partner_bookmarks_shim_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/chrome/!svn/ver/190511/trunk/src/chrome/browser/ui/webui/ntp/android/partner_bookmarks_shim_unittest.cc
+END
+partner_bookmarks_shim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chrome/!svn/ver/174536/trunk/src/chrome/browser/ui/webui/ntp/android/partner_bookmarks_shim.cc
+END
+bookmarks_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chrome/!svn/ver/191511/trunk/src/chrome/browser/ui/webui/ntp/android/bookmarks_handler.cc
+END
+context_menu_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chrome/!svn/ver/153151/trunk/src/chrome/browser/ui/webui/ntp/android/context_menu_handler.cc
+END
+partner_bookmarks_shim.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chrome/!svn/ver/151509/trunk/src/chrome/browser/ui/webui/ntp/android/partner_bookmarks_shim.h
+END
+bookmarks_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chrome/!svn/ver/191511/trunk/src/chrome/browser/ui/webui/ntp/android/bookmarks_handler.h
+END
+context_menu_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/chrome/!svn/ver/178082/trunk/src/chrome/browser/ui/webui/ntp/android/context_menu_handler.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/chrome/!svn/ver/174536/trunk/src/chrome/browser/ui/webui/ntp/android/OWNERS
+END
+promo_handler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/chrome/!svn/ver/186301/trunk/src/chrome/browser/ui/webui/ntp/android/promo_handler.cc
+END

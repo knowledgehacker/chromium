@@ -1,0 +1,179 @@
+# Copyright (c) 2013 The Chromium Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+"""Test expectation list for WebDriver Java acceptance tests.
+
+It is evaluated through Python.
+"""
+
+_REVISION_NEGATIVE_FILTER = {}
+_REVISION_NEGATIVE_FILTER['HEAD'] = [
+    'AlertsTest.*',
+    'PerformanceLoggingTest.*',
+    'ChromeOptionsFunctionalTest.canStartChromeWithCustomOptions',
+    'AuthenticatedPageLoadingTest.*',
+    'AvailableLogsTest.browserLogShouldBeEnabledByDefault',
+    'AvailableLogsTest.clientLogShouldBeEnabledByDefault',
+    'AvailableLogsTest.driverLogShouldBeEnabledByDefault',
+    'AvailableLogsTest.profilerLogShouldBeDisabledByDefault',
+    'AvailableLogsTest.shouldBeAbleToEnableProfilerLog',
+    'BasicMouseInterfaceTest.testContextClick',
+    'BasicMouseInterfaceTest.testMousePositionIsNotPreservedInActionsChain',
+    'BasicMouseInterfaceTest.testMovingIntoAnImageEnclosedInALink',
+    'BasicMouseInterfaceTest.testMovingMouseBackAndForthPastViewPort',
+    'BasicMouseInterfaceTest.testMovingMousePastViewPort',
+    'ClickScrollingTest.testShouldNotBeAbleToClickElementThatIsOutOfViewInANonScrollableFrame',
+    'ClickScrollingTest.testShouldNotScrollIfAlreadyScrolledAndElementIsInView',
+    'ClickTest.testCanClickAnImageMapArea',
+    'ClickTest.testCanClickOnALinkThatContainsEmbeddedBlockElements',
+    'CombinedInputActionsTest.testClickingOnFormElements',
+    'CombinedInputActionsTest.testHoldingDownShiftKeyWhileClicking',
+    'CoordinatesTest.testShouldGetCoordinatesInViewPortOfAnElementInAFrame',
+    'CoordinatesTest.testShouldGetCoordinatesInViewPortOfAnElementInANestedFrame',
+    'CoordinatesTest.testShouldScrollPageAndGetCoordinatesOfAnElementThatIsOutOfViewPort',
+    'CorrectEventFiringTest.testShouldEmitOnClickEventsWhenSelectingElements',
+    'CorrectEventFiringTest.testShouldFireEventsInTheRightOrder',
+    'CorrectEventFiringTest.testShouldFireFocusEventWhenClicking',
+    'DragAndDropTest.testDragTooFar',
+    'ElementEqualityTest.testAnElementFoundInADifferentFrameViaJsShouldHaveSameId',
+    'ElementFindingTest.testAnElementFoundInADifferentFrameIsStale',
+    'ElementFindingTest.testAnElementFoundInADifferentFrameViaJsCanBeUsed',
+    'ExecutingAsyncJavascriptTest.includesAlertTextInUnhandledAlertException',
+    'ExecutingAsyncJavascriptTest.throwsIfAlertHappensDuringScript',
+    'ExecutingAsyncJavascriptTest.throwsIfAlertHappensDuringScriptWhichTimesOut',
+    'ExecutingAsyncJavascriptTest.throwsIfScriptTriggersAlert',
+    'ExecutingAsyncJavascriptTest.throwsIfScriptTriggersAlertWhichTimesOut',
+    'ExecutingJavascriptTest.testShouldThrowExceptionIfExecutingOnNoPage',
+    'FormHandlingTest.handleFormWithJavascriptAction',
+    'FormHandlingTest.testShouldNotBeAbleToSubmitAFormThatDoesNotExist',
+    'FrameSwitchingTest.testFrameSearchesShouldBeRelativeToTheCurrentlySelectedFrame',
+    'FrameSwitchingTest.testShouldNotBeAbleToDoAnythingTheFrameIsDeletedFromUnderUs',
+    'FrameSwitchingTest.testShouldReturnWindowTitleInAFrameset',
+    'FrameSwitchingTest.testShouldThrowFrameNotFoundExceptionLookingUpSubFramesWithSuperFrameNames',
+    'GetLogsTest.differentLogsShouldNotContainTheSameLogEntries',
+    'GetLogsTest.logBufferShouldBeResetAfterEachGetLogCall',
+    'GetLogsTest.turningOffLogShouldMeanNoLogMessages',
+    'I18nTest.testShouldBeAbleToActivateIMEEngine',
+    # Broken because AddWebStorage.java is broken.
+    'LocalStorageTest.*',
+    'LocationContextTest.*',
+    'MiscTest.testShouldBeAbleToGetTheSourceOfAnXmlDocument',
+    'OpacityTest.testShouldBeAbleToClickOnElementsWithOpacityZero',
+    'PageLoadingTest.shouldBeAbleToDisableAcceptOfInsecureSslCertsWithRequiredCapability',
+    'PageLoadingTest.testShouldBeAbleToAccessPagesWithAnInsecureSslCertificate',
+    'PageLoadingTest.testShouldNotWaitIndefinitelyIfAnExternalResourceFailsToLoad',
+    'PageLoadingTest.testShouldTimeoutIfAPageTakesTooLongToLoad',
+    'PerformanceLoggingTest.testDisabledProfilingDoesNotLog',
+    'ProxySettingTest.canConfigureProxyWithRequiredCapability',
+    'ProxySettingTest.requiredProxyCapabilityShouldHavePriority',
+    'RenderedWebElementTest.testGetCssValueShouldReturnStandardizedColour',
+    'RenderedWebElementTest.testShouldAllowInheritedStylesToBeUsed',
+    'RenderedWebElementTest.testShouldHandleNonIntegerPositionAndSize',
+    'RenderedWebElementTest.testShouldPickUpStyleOfAnElement',
+    'SessionHandlingTest.callingAnyOperationAfterClosingTheLastWindowShouldThrowAnException',
+    'SessionHandlingTest.callingQuitAfterClosingTheLastWindowIsANoOp',
+    # Broken because AddWebStorage.java is broken.
+    'SessionStorageTest.*',
+    'SqlDatabaseTest.*',
+    'TextHandlingTest.testShouldNotReturnLtrMarks',
+    'TextHandlingTest.testShouldReturnEmptyStringWhenTagIsSelfClosing',
+    'TextPagesTest.testShouldBeAbleToLoadASimplePageOfText',
+    'TextPagesTest.testShouldThrowExceptionWhenAddingCookieToAPageThatIsNotHtml',
+    'TypingTest.testChordControlCutAndPaste',
+    'TypingTest.testChordControlHomeShiftEndDelete',
+    'TypingTest.testChordReveseShiftHomeSelectionDeletes',
+    'TypingTest.testDeleteAndBackspaceKeys',
+    'TypingTest.testNonPrintableCharactersShouldWorkWithContentEditableOrDesignModeSet',
+    'TypingTest.testShiftSelectionDeletes',
+    'TypingTest.testShouldBeAbleToTypeIntoContentEditableElementWithExistingValue',
+    'TypingTest.testShouldNotTypeIntoElementsThatPreventKeyDownEvents',
+    'TypingTest.testTypingIntoAnIFrameWithContentEditableOrDesignModeSet',
+    'UnexpectedAlertBehaviorTest.*',
+    'VisibilityTest.tooSmallAWindowWithOverflowHiddenIsNotAProblem',
+    'WebElementTest.testElementReturnsOriginDriver',
+    'WindowTest.*',
+]
+_REVISION_NEGATIVE_FILTER['27'] = [] + _REVISION_NEGATIVE_FILTER['HEAD']
+_REVISION_NEGATIVE_FILTER['26'] = [
+    'UploadTest.testFileUploading',
+    'CorrectEventFiringTest.testUploadingFileShouldFireOnChangeEvent',
+    'FormHandlingTest.testShouldBeAbleToAlterTheContentsOfAFileUploadInputElement',
+    'FormHandlingTest.testShouldBeAbleToUploadTheSameFileTwice',
+    'FormHandlingTest.testShouldBeAbleToSendKeysToAFileUploadInputElementInAnXhtmlDocument',
+] + _REVISION_NEGATIVE_FILTER['HEAD']
+
+_OS_NEGATIVE_FILTER = {}
+_OS_NEGATIVE_FILTER['win'] = [
+    # https://code.google.com/p/chromedriver/issues/detail?id=303
+    'CombinedInputActionsTest.testChordControlCutAndPaste',
+    # Flaky: https://code.google.com/p/chromedriver/issues/detail?id=282
+    'PageLoadingTest.testShouldNotHangIfDocumentOpenCallIsNeverFollowedByDocumentCloseCall',
+]
+_OS_NEGATIVE_FILTER['linux'] = [
+    # https://code.google.com/p/chromedriver/issues/detail?id=284
+    'TypingTest.testArrowKeysAndPageUpAndDown',
+    'TypingTest.testHomeAndEndAndPageUpAndPageDownKeys',
+    'TypingTest.testNumberpadKeys',
+]
+_OS_NEGATIVE_FILTER['mac'] = []
+_OS_NEGATIVE_FILTER['android'] = [
+    'BasicMouseInterfaceTest.testDoubleClick',
+    'BasicMouseInterfaceTest.testDoubleClickThenGet',
+    'BasicMouseInterfaceTest.testDragAndDrop',
+    'BasicMouseInterfaceTest.testDraggingElementWithMouseFiresEvents',
+    'BasicMouseInterfaceTest.testDraggingElementWithMouseMovesItToAnotherList',
+    'BasicMouseInterfaceTest.testMoveAndClick',
+    'ClickScrollingTest.testShouldBeAbleToClickElementThatIsOutOfViewInANestedFrameThatIsOutOfView',
+    'ClickScrollingTest.testShouldBeAbleToClickElementThatIsOutOfViewInANestedFrame',
+    'ClickTest.testCanClickOnAnElementWithTopSetToANegativeNumber',
+    'ClickTest.testShouldOnlyFollowHrefOnce',
+    'CombinedInputActionsTest.testCombiningShiftAndClickResultsInANewWindow',
+    'CoordinatesTest.testShouldGetCoordinatesOfAHiddenElement',
+    'CorrectEventFiringTest.testSendingKeysToAFocusedElementShouldNotBlurThatElement',
+    'CorrectEventFiringTest.testSendingKeysToAnElementShouldCauseTheFocusEventToFire',
+    'CorrectEventFiringTest.testSendingKeysToAnotherElementShouldCauseTheBlurEventToFire',
+    'CorrectEventFiringTest.testShouldEmitClickEventWhenClickingOnATextInputElement',
+    'ElementAttributeTest.testCanRetrieveTheCurrentValueOfATextFormField_emailInput',
+    'ElementAttributeTest.testCanRetrieveTheCurrentValueOfATextFormField_textArea',
+    'ElementAttributeTest.testCanRetrieveTheCurrentValueOfATextFormField_textInput',
+    'ElementSelectingTest.testShouldBeAbleToToggleEnabledMultiSelectOption',
+    'ExecutingAsyncJavascriptTest.shouldBeAbleToExecuteAsynchronousScripts',
+    'ExecutingAsyncJavascriptTest.shouldNotTimeoutIfScriptCallsbackInsideAZeroTimeout',
+    'FrameSwitchingTest.testClosingTheFinalBrowserWindowShouldNotCauseAnExceptionToBeThrown',
+    'FrameSwitchingTest.testGetCurrentUrl',
+    'I18nTest.testEnteringHebrewTextFromLeftToRight',
+    'I18nTest.testEnteringHebrewTextFromRightToLeft',
+    'JavascriptEnabledDriverTest.testIssue80ClickShouldGenerateClickEvent',
+    'JavascriptEnabledDriverTest.testShouldBeAbleToClickALinkThatClosesAWindow',
+    'JavascriptEnabledDriverTest.testShouldFireOnChangeEventWhenSettingAnElementsValue',
+    'SelectElementHandlingTest.testShouldBePossibleToDeselectASingleOptionFromASelectWhichAllowsMultipleChoices',
+    'SelectElementTest.shouldAllowOptionsToBeDeselectedByIndex',
+    'SelectElementTest.shouldAllowOptionsToBeDeselectedByReturnedValue',
+    'SelectElementTest.shouldAllowUserToDeselectAllWhenSelectSupportsMultipleSelections',
+    'SelectElementTest.shouldAllowUserToDeselectOptionsByVisibleText',
+    'TakesScreenshotTest.testCaptureToBase64',
+    'TakesScreenshotTest.testSaveScreenshotAsFile',
+    'TextHandlingTest.testShouldBeAbleToEnterDatesAfterFillingInOtherValuesFirst',
+    'TouchFlickTest.*',
+    'TouchScrollTest.*',
+    'TouchSingleTapTest.*',
+    'TypingTest.*',
+    'UploadTest.*',
+    'WindowSwitchingTest.*',
+    'XPathElementFindingTest.*',
+]
+
+def GetPassedJavaTestFilter(operating_system, chrome_version):
+  """Returns the test filter for running all passing tests.
+
+  Args:
+    operating_system: The operating system, one of 'linux', 'mac', 'win', or
+        'android'.
+    chrome_version: Chrome version to test against, e.g., 'HEAD' or '26'.
+
+  Returns:
+    Filter string, in Google Test (C++) format.
+  """
+  return '*-' + ':'.join(_OS_NEGATIVE_FILTER[operating_system] +
+                         _REVISION_NEGATIVE_FILTER[chrome_version])
